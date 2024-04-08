@@ -1,0 +1,149 @@
+[
+  {
+    "title": "Dead Matter",
+    "channel": "Gameplay System Designer",
+    "steam": "https://store.steampowered.com/app/2184150/Dead_Matter/",
+    "video": "https://youtu.be/PsYYFfMquBg?si=mqQlxiNpLLtkpz5o",
+    "image": "https://lh3.googleusercontent.com/drive-viewer/AKGpihahlg92ekrQs0hlcTGyUrNJxk3sDWiL7NkDBJz9C7KZA6V90kOqVDdg2TeYHdPH6Nmm-dlXSNlFknJoFjV1Kt_nM_1d1s5Z1Q=s2560",
+    "banner": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZFNX8Ai6dPtTeDrE8xR8cV6nD5v73EvS8yBekezsoK9K8gylFnlyV-QFBqY02IiU0aRXeQj_Q73BBdhq6JdnBxDmgQxB3q9g=s1600-rw-v1",
+    "description": "Dead Matter is a rogue-lite zombie survival game currently in early access and developed by Quantum Integrity Software Inc. The game was originally created and released as a mod for Crysis 2 back in 2012. After moving on Unreal Engine, they launched an Indiegogo crowdfunding campaign in 2018 that gathered more than 1.3 millions dollars. \nUnfortunately, lacking of real structure and experimented developers, the studio struggled in its production. I was hired as Gameplay System Designer in march 2022, as only real Game Designer in the crew to try to give a second breath to the project. ",
+    "engine":"https://immersivedesignstudios.com/wp-content/uploads/2017/05/1425334231-unreal-engine-logo.png",
+    "team" : "5 - 20",
+    "design": [
+      {
+        "skill": "Write tasks, workflows, and design specifications"
+      },
+      {
+        "skill": "Design and document core loops, features, progression, and systems’ dependencies"
+      },
+      {
+        "skill": "Drive balancing, tuning, and iteration of game systems such as AI, combat, dialogue trees, loot tables, and player control"
+      },
+      {
+        "skill": "Adjust the balance between PvE, PvP, and PvEvP elements"
+      }
+    ],
+    "communication": [
+      {
+        "skill": "Assist with discussing, establishing, and evolving gameplay development practices within the design team"
+      },
+      {
+        "skill": "Assist in writing and maintaining living design documents utilized by Design, Production, Code, Art, and QA"
+      },
+      {
+        "skill": "Assist in establishing and prioritizing design-needs for the entire team as a way of guiding development with a gameplay-first approach"
+      },
+      {
+        "skill": "Communicate well-considered, accurate timelines for the delivery of new features, mechanics, or systems"
+      }
+    ],
+    "tech": [
+      {
+        "skill": " Prototype gameplay features in Unreal Engine with blueprint"
+      },
+      {
+        "skill": "Implement in-game features and User Interface using Unreal widgets"
+      },
+      {
+        "skill": "Manage commit and push using Perforce and Unreal Game Sync"
+      }
+    ],
+    "contents": [
+      {
+        "img": "https://lh3.googleusercontent.com/drive-viewer/AKGpihYfikiiroeInU3aJe9tjtnAejRJbv_ICi-VG6doByTGMt_aRC51Rz5pVPmKATINOqtmCI42OFeJx6WA6gFe3qwtHsSrqQ9Zhw=s1600-v0"
+      },
+      {
+        "img": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZ5D44qYZ_UCwHhrXBC8l97Y6yelHJnStqlSx8PfUT4r6oYcWkE5txHYxrABhbO-5iVLmjiQeSvHJBqXe5Rc6wQ0dnbRKnG_Q=s1600-v0"
+      },
+      {
+        "img": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZH4GKtaPqN5s71QZkqf0AVAm0F659fgMVI2CUzIam5C6y592Ggts9uhN6IZIK0q2cz8MKDA0BGb_YxSHa7qxmEUWk0-qdqQ9o=s1600-v0"
+      },
+      {
+        "img": "https://lh3.googleusercontent.com/drive-viewer/AKGpihbb5TghDycJ4KGbyY-cjAyGWSr9P-Pn2CZfq6S5Q1lndOB9_MK-92EDQk9YImM7rixkxO-YIiyxXiKnWHeom3aQv6qA8gFMu7U=s1600-rw-v1"
+      },
+      {
+        "img": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZRGzSTPRZw46ajAAgN2rKyKd98mKG0Or6xXS8Syse3F2cGngMOhKuLugGDBCLdp7Fgth2aRa_IIcaKxSelFlGceAPLLZHDJg=s1600-v0"
+      },
+      {
+        "img": "https://lh3.googleusercontent.com/drive-viewer/AKGpihYMhs868BSVIA9xIO7aKNbqAenYcHLwNCzlZ8iPZxkaAy3j6ro01uaR2G-D08fkufUEsjsJC6F_1w1R21Exht5zKBpBx-grmWI=s1600-v0"
+      }
+    ]
+  },
+  {
+    "title": "Blood Spear",
+    "channel": "Game Designer",
+    "steam": "https://store.steampowered.com/app/1638660/Blood_Spear/",
+    "video": "https://youtu.be/o6tMhmhJ4os?si=zk9w4cXf7H4uV60G",
+    "image": "https://images-ext-1.discordapp.net/external/IoQYKY4U9m99mfg4T27dODVE36Fvj8RxukKoH398aes/https/lh3.googleusercontent.com/drive-viewer/AKGpihYAt8HdlC-mULdhDSbuycrktmCwC2bqEQsWFsvB9h3oEfaCnyYEHFUSVDYQ0j-BIL3B9x77uXOJ7rv5pKwi8Snp0Ij80oCX9wk%3Ds2560?format=webp&width=668&height=335",
+    "banner": "https://images-ext-1.discordapp.net/external/gWI0Ih2zelcTowgvrfK2-o-AE8eKw9JGqVY0lyOZ5Rc/https/static.wixstatic.com/media/cd9e5a_a77336a577c84e3daf58ba91c29b1ce4~mv2.jpg/v1/fill/w_980%2Ch_163%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_auto/cd9e5a_a77336a577c84e3daf58ba91c29b1ce4~mv2.jpg?format=webp&width=885&height=147",
+    "description": "Blood Spear is a student game which won the first prize of the jury at ISART Digital Montréal in 2021 and is overwhelmingly positive on Steam with more than 1800 reviews.\nFeaturing action ranged gameplay, you play as the Blood Spear, a cursed weapon with demonic powers who is able to possess the body of dead ghosts. \nThis grants you many abilities, like a powerful throw, a way to cheat death, and the power to absorb the blood of your enemies in order to heal yourself. ",
+    "engine":"https://immersivedesignstudios.com/wp-content/uploads/2017/05/1425334231-unreal-engine-logo.png",
+    "team":"8",
+    "design": [
+      {
+        "skill": "Designing patterns, moves and fight area."
+      },
+      {
+        "skill": "Balancing damages, anticipation time, and flow."
+      },
+      {
+        "skill": "Iterating on feedback from the team and from playtesters."
+      },
+      {
+        "skill": "Rational Game Design & balancing"
+      },
+      {
+        "skill": "UI for Tutorials"
+      }
+    ],
+    "communication": [
+      {
+        "skill": "Working closely with Artists for Hands Animations, Boss Model, and Level Art."
+      },
+      {
+        "skill": "Working closely with the 3C Scripter to set health & damage system."
+      },
+      {
+        "skill": "Working closely with the Narrative Designer to design and launch cutscenes."
+      },
+      {
+        "skill": "Working closely with the VFX Artist to link FX to the design."
+      },
+      {
+        "skill": "Planning playtest sessions with external playtesters & Playtests reports."
+      },
+      {
+        "skill": "Scrum Master on JIRA."
+      }
+
+    ],
+    "tech": [
+      {
+        "skill": "Scripting using blueprints, navmesh and behavior tree on a multi part Boss (Hands + Body)."
+      },
+      {
+        "skill": "Versioning with perforce."
+      }
+    ],
+    "contents": [
+      {
+        "img": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZ86TjeBOJ1IwajuuGRYGK0QO8vvZDKZBwGs1vd4MCzYpEuEpqt9T8hmgjWRWSNfCPrQLMfFqvdFr0fvst72LWUpa40ZN3GUA=s1600-rw-v1"
+      },
+      {
+        "img": "https://lh3.googleusercontent.com/drive-viewer/AKGpihYSa2LdFRmTQMYiWclkHXmAAqu0QfhFYaixS8YrcngS6tuwbDumEG9HxAWuv-z-nPCG6msXtWAc5WlRdmYuE9eWQQ0NNxEu2XI=s2560"
+      },
+      {
+        "img": "https://lh3.googleusercontent.com/drive-viewer/AKGpihaLj1swUkpdYSiOL3kTCbIUHdEB97eBa-RCYUk0rmwafz2w2xBog03r8yFQ52htoh0NjJfAMice7-KUw4wcJrZB2FEevD1ccqQ=s2560"
+      },
+      {
+        "img": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZYF-7f95D7_xN4qkT5GD1buguZcrqemhHRNau6P15wnQSVIsfmpw8fR6l9Txfm1LXcc9uLHtF_VBEOv-1AeRExarIvqRFWT94=s1600-rw-v1"
+      },
+      {
+        "img": "https://lh3.googleusercontent.com/drive-viewer/AKGpihYvR5SqeCKGnUcipnoLI1JB99ca6EoHa4RSBTJUdWSC3RmOch_hyE7Hrb9qtZC9NsVJMlGnlDLyVJs68u-DwFAbBXLJzUdtgog=s2560"
+      },
+      {
+        "img": "https://lh3.googleusercontent.com/drive-viewer/AKGpihalmj2HIYMEgfEFS4yfKPfys-vbzFembhLD0f6hfN4CnxT70h7-l_AJ1vTG8bNxCI77TezP-UAmuQgnPR0Qpa8xH01tprP1Xw=s2560"
+      }
+    ]
+  }
+]

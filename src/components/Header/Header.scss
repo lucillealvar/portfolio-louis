@@ -1,0 +1,41 @@
+@import '../../style/partials/global';
+@import '../../style/partials/variable';
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    position: left top;
+    width: 1024px;
+    margin: 0 auto;
+    padding: 25px 10px 5px;
+    border-bottom: 5px solid $F-text;
+    background-image: radial-gradient(rgb(72, 72, 72), $back 70%);
+    background-position: center bottom;
+    &-title {
+        line-height: 40px;
+        h1 {
+            color: $F-text;
+            font-size: 45px;
+        }
+        h3 {
+            font-size: 30px;
+            font-weight: 100;
+        }    
+    }
+    &-socials {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        img {
+            width: 40px;
+            transition: 0.2 ease-in-out;
+            &:hover {
+                transform: scale(1.2);
+            }
+        }
+        .linkedin {
+            margin-right: 25px;
+        }
+    }
+}

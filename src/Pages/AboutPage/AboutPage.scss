@@ -1,0 +1,64 @@
+@import "../../style/partials/global";
+@import "../../style/partials/variable";
+
+.about {
+  background: url("../../assets/Portfolio_Background.png");
+  width: 1024px;
+  background-repeat: inherit;
+  background-position: left top;
+  background-attachment: fixed;
+  margin: 0 auto;
+  color: black;
+  padding: 50px 0;
+  &-title {
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 10px;
+    color: $F-text;
+    position: relative;
+    &:before {
+      content: "";
+      display: block;
+      width: 300px;
+      height: 5px;
+      background-color: $F-text;
+      position: absolute;
+      top: 40%;
+    }
+    &:after {
+      content: "";
+      display: block;
+      width: 300px;
+      height: 5px;
+      background-color: $F-text;
+      position: absolute;
+      right: 0;
+      top: 40%;
+    }
+  }
+  &-description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    h3 {
+      font-size: 20px;
+      color: #1876cf;
+    }
+    img {
+      width: 650px;
+      border: 3px solid $border;
+    }
+    &_details {
+      background-color: rgba(255, 255, 255, 0.256);
+      margin: 20px 50px;
+      padding: 30px;
+    }
+    p {
+      font-size: 20px;
+      line-height: 30px;
+      margin: 24px 0;
+    }
+  }
+}

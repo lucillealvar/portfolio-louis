@@ -1,0 +1,11 @@
+@import '../../style/partials/global';
+
+.home {
+    background: url("../../assets/Portfolio_Background.png");
+    width: 1024px;
+    background-repeat: inherit;
+    background-position: left top;
+    background-attachment: fixed;
+    margin: 0 auto;
+    padding-top: 25px;
+}

@@ -1,0 +1,50 @@
+@import '../../style/partials/global';
+@import '../../style/partials/variable';
+
+.nav {
+  font-size: 19px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    position: left top;
+    width: 1024px;
+    margin: 0 auto;
+    span, .nav-bar {
+        padding: 10px 20px;
+        text-decoration: none;
+        color: #ffffff;
+        &:hover{
+            background-color: $F-text;
+            cursor: pointer;
+        } 
+    }
+    .dropdown {
+        position: relative;
+        &:hover .dropdown-toggle {
+          cursor: pointer;
+          background-color: $F-text;
+        }
+    
+        .dropdown-options {
+          display: none;
+          position: absolute;
+          top: 135%;
+          left: 0;
+          background-color: #ececec ;
+          z-index: 2;
+          .option {
+            padding: 10px 25px;
+            color: black;
+            cursor: pointer;
+            &:hover {
+             border-left: 5px solid #f8af6e;
+             background-color: #ffffff;
+            }
+          }
+        }
+    
+        &:hover .dropdown-options {
+          display: flex;
+          flex-direction: column;
+        }
+      }}

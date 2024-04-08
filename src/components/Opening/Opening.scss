@@ -1,0 +1,19 @@
+@import "../../style/partials/global";
+@import "../../style/partials/variable";
+
+.opening {
+  margin: 10px 48px 48px;
+  color: black;
+  padding: 0 10px;
+  background-color: rgba(255, 255, 255, 0.256);
+  h2,
+  h3 {
+    padding: 10px 0;
+    color: #1876cf;
+  }
+  p,
+  h3 {
+    padding: 5px 0;
+    font-size: 20px;
+  }
+}

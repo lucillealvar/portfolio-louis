@@ -1,0 +1,67 @@
+@import '../../style/partials/global';
+@import'../../style/partials/variable';
+
+.professional {
+    &-title {
+        font-size: 20px;
+        text-align: center;
+        padding-bottom: 10px;
+        color: $F-text;
+        position: relative;
+        &:before {
+            content: '';
+            display: block;
+            width: 200px;
+            height: 5px;
+            background-color: $F-text;
+            position: absolute;
+            left: 0;
+            top: 40%;
+        }
+        &:after {
+            content: '';
+            display: block;
+            width: 200px;
+            height: 5px;
+            background-color: $F-text;
+            position: absolute;
+            right: 0;
+            top: 40%;
+        }
+    }
+    ul {
+        margin: 24px 0;
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    li {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        .img {
+            width: 800px;
+            height: 400px;
+            border: 3px solid $border;
+            border-radius: 10px;
+            transition: 0.2s ease-in-out;
+            img {
+                object-fit: fill;
+                width: 100%;
+                height: 100%;
+                border-radius: 10px;
+            }
+            &:hover {
+                transform: scale(1.05);
+            }
+        }    
+        .role {
+            font-size: 25px;
+            color: $F-title;
+            margin: 16px 0 48px;
+        }
+    }
+}

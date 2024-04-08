@@ -1,0 +1,102 @@
+@import "../../style/partials/global";
+@import "../../style/partials/variable";
+
+.project {
+  background: url("../../assets/Portfolio_Background.png");
+  width: 1024px;
+  background-repeat: inherit;
+  background-position: left top;
+  background-attachment: fixed;
+  margin: 0 auto;
+  position: relative;
+  &-banner {
+    width: 100%;
+    padding: 24px 0;
+    &_img {
+      width: 100%;
+    }
+  }
+  &-details {
+    margin: 10px 48px 48px;
+    color: black;
+    padding: 0 10px;
+    background-color: rgba(255, 255, 255, 0.256);
+    &_links {
+        margin: 30px 24px 0px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      a {
+        text-decoration: none;
+        .project-details_steam {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: $F-text;
+          .steam {
+            width: 34px;
+            margin-right: 10px;
+          }
+        }
+      }
+      &-team {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        .engine-image {
+            width: 90px;
+        }
+        .users{
+            margin-left: 50px;
+            display: flex;
+            .userteam {
+                width: 45px;
+                height: 30px;
+                color: rgb(86, 86, 86);
+            }
+            .numberteam {
+                font-size: 25px;
+                color: rgb(86, 86, 86);
+            }    
+        }
+      }
+    }
+    &_info {
+      font-size: 22px;
+      font-weight: 300;
+      line-height: 27px;
+      padding: 26px;
+      &-skills {
+        padding: 32px 0 24px;
+        &_title {
+          padding: 15px 0;
+        }
+        &_list {
+          padding: 0 32px;
+        }
+      }
+    }
+    &_images {
+      margin-top: 72px;
+      padding-bottom: 72px;
+      &-list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+        .list {
+          list-style: none;
+          transition: 0.3s ease-in-out;
+          .image {
+            width: 280px;
+            height: 180px;
+          }
+          &:hover {
+            transform: scale(1.05);
+            cursor: pointer;
+          }
+        }
+      }
+    }
+  }
+}
