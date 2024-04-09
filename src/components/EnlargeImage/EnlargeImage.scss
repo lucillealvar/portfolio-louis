@@ -4,32 +4,39 @@
     top: 0;
     width: 100%;
     height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     background-color: rgba(0, 0, 0, 0.479);
     &-image {
-        background-color: rgb(4, 4, 4);
         padding: 20px 30px;
-        width: 750px;
-        height: 600px;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items:normal;
+        justify-content: center;    
         position: relative;
-        &_header {
-            display: flex;
-            justify-content: flex-end;
-            font-size: 50px;
-            color: whitesmoke;    
-            :hover {
-                cursor: pointer;
-            }
-        }
         &_content {
             display: flex;
             align-items: center;
             justify-content: center;
             padding: 48px 24px;
             .img {
-                width: 100%;
+                width: 80%;
+            }
+        }
+        &_header {
+            width: 100px;
+            display: flex;
+            justify-content: center;
+            font-size: 50px;
+            color: white; 
+            position: fixed;   
+            right: 5%;
+            transition: 0.3s ease-in-out;
+            .x {
+                padding: 30px;
+            }
+            :hover {
+                cursor: pointer;
+                transform: scale(1.3);
             }
         }
     }
