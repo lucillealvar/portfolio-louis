@@ -3,9 +3,9 @@ import "./Opening.scss";
 function Opening() {
   return (
     <div className="opening">
-      <h2>Hi! Welcome to my portfolio.</h2>
+      <h2>Welcome to Louis Langlet's Portfolio</h2>
       <p>
-        My name is Louis Langlet, a creative professional with 3 years
+        I am a creative professional with 3 years
         professional game industry experience as <strong>Game Designer</strong>{" "}
         . I graduated as valedictorian from Isart Digital Montréal in 2021,
         studying Game Design.
