@@ -6,14 +6,14 @@
         font-size: 20px;
         text-align: center;
         padding-bottom: 10px;
-        color: $F-text;
+        color: $F-personal;
         position: relative;
         &:before {
             content: '';
             display: block;
             width: 200px;
             height: 5px;
-            background-color: $F-text;
+            background-color: $F-personal;
             position: absolute;
             left: 0;
             top: 40%;
@@ -23,7 +23,7 @@
             display: block;
             width: 200px;
             height: 5px;
-            background-color: $F-text;
+            background-color: $F-personal;
             position: absolute;
             right: 0;
             top: 40%;
@@ -31,19 +31,28 @@
     }
     &-projects {
         margin: 24px;
+        display: flex;
+        justify-content: center;
+        .personal {
+            width: 50%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .engine-logo {
+            width: 150px;
+            margin-bottom: 20px;
+        }
         ul {
             list-style: none;
             display: flex;
             flex-wrap: wrap;
             justify-content: center;
-            align-items: center;
             li {
-                margin: 25px;
+                margin: 15px 25px;
                 width: 250px;
                 display: flex;
                 flex-direction: column;
-                justify-content: center;
-                align-items: center;
                 .img {
                     width: 250px;
                     height: 260px;
@@ -59,6 +68,12 @@
                     &:hover {
                         transform: scale(1.05);
                     }        
+                }
+                .pers-title {
+                    margin-top: 10px;
+                    padding-left: 5px;
+                    color: green;
+                    font-size: 22px;
                 } 
             }
         }
