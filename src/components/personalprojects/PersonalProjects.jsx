@@ -12,7 +12,7 @@ function PersonalProjects({ projects }) {
           {projects.map((project, index) => (
             <li key={index}>
               <div className="img">
-                <Link to={"/projects"}>
+                <Link to={"/personal-projects"}>
                   <img src={project.image} alt={project.title} />
                 </Link>
               </div>

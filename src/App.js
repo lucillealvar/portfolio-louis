@@ -5,7 +5,7 @@ import NavBar from './components/NavBar/NavBar';
 import HomePage from './Pages/HomePage/HomePage';
 import AboutPage from './Pages/AboutPage/AboutPage';
 import ProjectsPage from './Pages/ProjectsPage/ProjectsPage';
-
+import PersonalWork from './Pages/PersonalWork/PersonalWork';
 function App() {
   return (
     <>
@@ -16,6 +16,7 @@ function App() {
       <Route path="/" element={<HomePage/>}/>
       <Route path="/about" element={<AboutPage/>}/>
       <Route path='/projects/:index' element={<ProjectsPage/>}/>
+      <Route path='/personal-projects/:index' element={<PersonalWork/>}/>
     </Routes>
     </BrowserRouter>
     </>

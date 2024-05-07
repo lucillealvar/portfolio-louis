@@ -25,7 +25,7 @@ function NavBar() {
           <span className="dropdown-toggle">PERSONAL PROJECTS</span>
           <div className="dropdown-options">
             {restOf.map((personal, index) => (
-              <Link to={`/projects/${index}`} key={index} className="nav-bar option">{personal.title}</Link>
+              <Link to={`/personal-projects/${index}`} key={index} className="nav-bar option">{personal.title}</Link>
             ))}
           </div>
         </div>
