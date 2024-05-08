@@ -19,15 +19,15 @@ function PersonalProjects({ personal }) {
         <div className="unity-projects work">
           <img alt="unity" src={unitylogo} className="engine-logo"/>
           <ul className="personal-projects_list">
-            {unityProjects.map((project, index) => (
+            {unityProjects.map((unity, index) => (
               <li key={index}>
                 <div className="img">
                   {/* Anchor link to scroll to the project */}
                   <Link to={`/personal-projects/unity`}>
-                    <img src={project.image} alt={project.title} />
+                    <img src={unity.image} alt={unity.title} />
                   </Link>
                 </div>
-                <h3 className="pers-title">{project.title}</h3>
+                <h3 className="pers-title">{unity.title}</h3>
               </li>
             ))}
           </ul>
@@ -36,15 +36,15 @@ function PersonalProjects({ personal }) {
         <div className="unreal-projects work">
           <img alt="unreal" src={unreallogo} className="engine-logo"/>
           <ul className="personal-projects_list">
-            {unrealProjects.map((project, index) => (
+            {unrealProjects.map((unreal, index) => (
               <li key={index}>
                 <div className="img">
                   {/* Anchor link to scroll to the project */}
                   <Link to={`/personal-projects/unreal`}>
-                    <img src={project.image} alt={project.title} />
+                    <img src={unreal.image} alt={unreal.title} />
                   </Link>
                 </div>
-                <h3 className="pers-title">{project.title}</h3>
+                <h3 className="pers-title">{unreal.title}</h3>
               </li>
             ))}
           </ul>
