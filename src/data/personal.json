@@ -1,0 +1,38 @@
+[
+    {
+        "title":"2Gether",
+        "engine":"unity",
+        "image":"https://lh3.googleusercontent.com/drive-viewer/AKGpihbjYrGxrKDPsrEYkwrKxRCXilhTdsAfa4Y2tkOOjQ-86neP4qACkdeDkCCDkT1N_hqqlkfxh1ULnacEaJkttx7oBid1KeLFEQ=s2560",
+        "video":"https://vimeo.com/516377739",
+        "description":"You play as a spirit inside a golem and you have to jump out to unlock your path resolving puzzles and go forward together.\n\nI designed 3C, puzzles, levels and integrated environment assets in the game."
+    },
+    {
+        "title":"Beeware",
+        "engine":"unity",
+        "image":"https://images-ext-1.discordapp.net/external/CvKcG6NiVin94S7R2asqNY9q2qRF_UhvEuS7W1dxObc/https/lh3.googleusercontent.com/drive-viewer/AKGpihYbjLeb1G98IwxPx6zQJlXuu-jsilfBpPI6h_5iMo3O_nfT5f9OFt3AuXwtHF_ozvDEM644ZbhVwlwle2EoZS-iGMBdfiCR0w%3Ds1600-rw-v1?format=webp&width=885&height=472",
+        "video":"https://www.youtube.com/watch?v=Ox9sjQprNYw",
+        "description":"BeeWare is a 3C project (Character, Camera, Controller) in which you play as a bee who has to get to the end of each level without overheating.\n\nI designed the second level, a part of 3C, and scripted some Level Design Objects Tools in C# for my teamates."
+    },
+    {
+        "title":"Homing Pigeon",
+        "engine":"unity",
+        "image":"https://images-ext-1.discordapp.net/external/YOXbtBM_CrnUi1tkJICgmGGVx6II8zG1vKWg8BxRCcg/https/lh3.googleusercontent.com/drive-viewer/AKGpihZS0aRSywXfJ-8lcTF4C21kFfkIn2LpjFA2NRvCOGiV09UTeVVnOy43WWG0GMDYT1qW5e6iOQ_JGIORaUQ22VF9G8mZmfBLhEE%3Ds1600-rw-v1?format=webp&width=885&height=444",
+        "video":"https://www.youtube.com/watch?v=hy9ZdCWCSnw",
+        "description":"You play a pigeon without a ticket in the Montreal subway and you have to get out before the ticket inspector arrives. Nevertheless, you quickly realize that this subway is not as the most common. \n\nI designed the Bathroom Wagon level, Scripted the Controller and Game Objects in C#."
+    },
+    {
+        "title":"Minions",
+        "engine":"unreal",
+        "image":"https://images-ext-1.discordapp.net/external/sj5GeBAX2-tWD_ck_ONX2lOkuybTYWstzUE51CtoqOA/https/lh3.googleusercontent.com/drive-viewer/AKGpihaOA7I07xq81f13qnOact7eTT7zaxazAKex0VfViSP_-_4eiLUgSmHyooKGjDHgik4DN1jYzFhl69r3PfFQURlm9eZJFyiRGck%3Ds1600-rw-v1?format=webp",
+        "video":"https://www.youtube.com/watch?v=Eaajxvf5QbI",
+        "description":"This project is an RTS like where you are able to control several units and give them orders like attack or cut trees.\n\n I was able to do AI with Behavior Tree and EQS; learned about animation and retargeting; use Smart Objects, and so on. It's still WIP but I plan to go further on my free time."
+    },
+    {
+        "title":"Log",
+        "engine":"unreal",
+        "image":"https://images-ext-1.discordapp.net/external/y1Ae_KUQD_wlUhv_OLlC2Tr6ccJmymAmRKQY5iRg0Wg/https/lh3.googleusercontent.com/drive-viewer/AKGpihaIwCtP47v-nP0xVRVRq4LP4dOBypTeKXrnZVtmgR2e-kpQmZGytheHa7ij8M4wcWoyyi3Nf14jyr4Q2r4zUXhXB8aEdeV40Fo%3Ds1600-rw-v1?format=webp&width=885&height=474",
+        "video":"https://www.youtube.com/watch?v=GTAqC09QzBA",
+        "description":"A mix of simulation and scoring, the aim is to balance your robot population and harvest wood for them to reproduce.  Some robots are defective and will consume wood without reproducing which can endanger your robot population. \n\nI designed and implemented robot AI with Behavior Trees, a part of the controller, and implemented SFX and VFX for robots."
+    }
+
+]

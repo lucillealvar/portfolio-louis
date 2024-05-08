@@ -4,9 +4,9 @@
     "channel": "Gameplay System Designer",
     "steam": "https://store.steampowered.com/app/2184150/Dead_Matter/",
     "video": "https://youtu.be/PsYYFfMquBg?si=mqQlxiNpLLtkpz5o",
-    "image": "https://lh3.googleusercontent.com/drive-viewer/AKGpihahlg92ekrQs0hlcTGyUrNJxk3sDWiL7NkDBJz9C7KZA6V90kOqVDdg2TeYHdPH6Nmm-dlXSNlFknJoFjV1Kt_nM_1d1s5Z1Q=s2560",
-    "banner": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZFNX8Ai6dPtTeDrE8xR8cV6nD5v73EvS8yBekezsoK9K8gylFnlyV-QFBqY02IiU0aRXeQj_Q73BBdhq6JdnBxDmgQxB3q9g=s1600-rw-v1",
-    "description": "Dead Matter is a rogue-lite zombie survival game currently in early access and developed by Quantum Integrity Software Inc. The game was originally created and released as a mod for Crysis 2 back in 2012. After moving on Unreal Engine, they launched an Indiegogo crowdfunding campaign in 2018 that gathered more than 1.3 millions dollars. \nUnfortunately, lacking of real structure and experimented developers, the studio struggled in its production. I was hired as Gameplay System Designer in march 2022, as only real Game Designer in the crew to try to give a second breath to the project. ",
+    "image": "https://images-ext-1.discordapp.net/external/kXUh9uec4mWIwcTmB7T0sRDR_FqOMoo8mBGmXafKwOM/https/lh3.googleusercontent.com/drive-viewer/AKGpihbBZ9Qqx3Ua1CHcwZvEyE3ylvwDKRBa-Gt_kic_UArIu5ohjuoiUjwEMmhRoJRubU7J-PnrkQNr5UaP2xWvD8FTbGzRItCf9g%3Ds2560?format=webp",
+    "banner": "https://images-ext-1.discordapp.net/external/q333Y9WY50ZnbOe7WrLhz5N8im4vHdRPBXAp0_HKIKs/https/lh3.googleusercontent.com/drive-viewer/AKGpihZ4jBaCOjLQ08AGDD9rOXCYHdsuSt3jH-5nFvo1HKzKfn-kcgr5CQMTk5vD0YerKhDHwUBK8rprgMS2x8dPmEbVdL5kleU0Ow%3Ds1600-rw-v1?format=webp&width=885&height=147",
+    "description": "Dead Matter is a rogue-lite zombie survival game currently in early access and developed by Quantum Integrity Software Inc. The game was originally created and released as a mod for Crysis 2 back in 2012. After moving on Unreal Engine, they launched an Indiegogo crowdfunding campaign in 2018 that gathered more than 1.3 millions dollars. \n\nUnfortunately, lacking of real structure and experimented developers, the studio struggled in its production. I was hired as Gameplay System Designer in march 2022, as only real Game Designer in the crew to try to give a second breath to the project. ",
     "engine":"https://immersivedesignstudios.com/wp-content/uploads/2017/05/1425334231-unreal-engine-logo.png",
     "team" : "5 - 20",
     "design": [
@@ -76,7 +76,7 @@
     "video": "https://youtu.be/o6tMhmhJ4os?si=zk9w4cXf7H4uV60G",
     "image": "https://images-ext-1.discordapp.net/external/IoQYKY4U9m99mfg4T27dODVE36Fvj8RxukKoH398aes/https/lh3.googleusercontent.com/drive-viewer/AKGpihYAt8HdlC-mULdhDSbuycrktmCwC2bqEQsWFsvB9h3oEfaCnyYEHFUSVDYQ0j-BIL3B9x77uXOJ7rv5pKwi8Snp0Ij80oCX9wk%3Ds2560?format=webp&width=668&height=335",
     "banner": "https://images-ext-1.discordapp.net/external/gWI0Ih2zelcTowgvrfK2-o-AE8eKw9JGqVY0lyOZ5Rc/https/static.wixstatic.com/media/cd9e5a_a77336a577c84e3daf58ba91c29b1ce4~mv2.jpg/v1/fill/w_980%2Ch_163%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_auto/cd9e5a_a77336a577c84e3daf58ba91c29b1ce4~mv2.jpg?format=webp&width=885&height=147",
-    "description": "Blood Spear is a student game which won the first prize of the jury at ISART Digital Montréal in 2021 and is overwhelmingly positive on Steam with more than 1800 reviews.\nFeaturing action ranged gameplay, you play as the Blood Spear, a cursed weapon with demonic powers who is able to possess the body of dead ghosts. \nThis grants you many abilities, like a powerful throw, a way to cheat death, and the power to absorb the blood of your enemies in order to heal yourself. ",
+    "description": "Blood Spear is a student game which won the first prize of the jury at ISART Digital Montréal in 2021 and is overwhelmingly positive on Steam with more than 1800 reviews. \n\nFeaturing action ranged gameplay, you play as the Blood Spear, a cursed weapon with demonic powers who is able to possess the body of dead ghosts. \n\nThis grants you many abilities, like a powerful throw, a way to cheat death, and the power to absorb the blood of your enemies in order to heal yourself. ",
     "engine":"https://immersivedesignstudios.com/wp-content/uploads/2017/05/1425334231-unreal-engine-logo.png",
     "team":"8",
     "design": [
@@ -143,6 +143,67 @@
       },
       {
         "img": "https://lh3.googleusercontent.com/drive-viewer/AKGpihalmj2HIYMEgfEFS4yfKPfys-vbzFembhLD0f6hfN4CnxT70h7-l_AJ1vTG8bNxCI77TezP-UAmuQgnPR0Qpa8xH01tprP1Xw=s2560"
+      }
+    ]
+  },
+  {
+    "title": "Dum Dum Dinos",
+    "channel": "Lead Game Designer",
+    "steam": "https://store.steampowered.com/app/1462120/Dum_Dum_Dinos/",
+    "video": " https://www.youtube.com/watch?v=UHDnFJl_BuI",
+    "image": "https://lh3.googleusercontent.com/drive-viewer/AKGpihaUVQz2ZOZBM2HDfWdIR3tOQAqIAS8tks5AwBcAUW1ouBcmWSsjHTb9fnBIIwR15B7GEXzcqVTQVTb5uXpcmyvlJoTcDiJC9g=s2560",
+    "banner": "https://images-ext-1.discordapp.net/external/MEtsQDwylYi5GP5yqcyPCGt07EW5-4Xmxg1Z2KIWPyY/https/lh3.googleusercontent.com/drive-viewer/AKGpihZcklun1WCoTLQx4ZTf6TIzC382a2zwoxUgm1Hhw2QA05QSLA6iZ-1VUrKuj72rkDG969iR-hgONErzmMqFf3Q_WcOz-t7DC_c%3Ds1600-rw-v1?format=webp&width=885&height=146",
+    "description": " DUM DUM DINOS is a turn based mobile game that mix features from building tetris and real time tactical games. Create buildings and upgrade them in the construction phase to have access to powerful units and take over the objectives during the battle phase.",
+    "engine":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/1920px-Unity_2021.svg.png",
+    "team" : "8",
+    "design": [
+      {
+        "skill": "Game System Design"
+      },
+      {
+        "skill": "User Experience Design - PC & Mobile"
+      },
+      {
+        "skill": "3C"
+      }
+    ],
+    "communication": [
+      {
+        "skill": "Management of Game & Level Design unit"
+      },
+      {
+        "skill": "Work closely with Art & Dev Team"
+      },
+      {
+        "skill": "Planning & Assets Lists"
+      }
+    ],
+    "tech": [
+      {
+        "skill": "Unity Implementation"
+      },
+      {
+        "skill": "Versioning "
+      }
+    ],
+    "contents": [
+      {
+        "img": "https://lh3.googleusercontent.com/drive-viewer/AKGpihYNvCUCFgPxnqLdDu5Gg6Ulv4ue4fQakCuWYgJ8DJq_CdSIZ4vrk_qVKuMBM5q_mAhFQ7rKMl8JAX5nIXQA4QSYOfaTsU_zLw=s1600-rw-v1"
+      },
+      {
+        "img": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZxxQvz2FsB3-hVym-0jNy0PUMxSwYM_B00SEenscqWPkmS95hMbDKs5KuBYELvbKEjoAgQL2T6Aln4WWUbNOGIfBInb2hXmQ=s1600-rw-v1"
+      },
+      {
+        "img": "https://lh3.googleusercontent.com/drive-viewer/AKGpihb8wL_2AJjOnZsLtbXAYo7lG1sVk87oqB4e4yxkqBc4u44UYuFpDrHWirspdzC21sZ0EqLuFqcfB29o2O3IivYkDZiiJ5SpOw=s1600-rw-v1"
+      },
+      {
+        "img": "https://lh3.googleusercontent.com/drive-viewer/AKGpihapfHIaZE0HtezXspvHDsJSERUNWS6z6p5fPFOa1UukefTd5STt0N8h7ErA3RQV3xQgKij99gWFknoL_qACGnDu1WDs_WP4eXE=s1600-rw-v1"
+      },
+      {
+        "img": "https://lh3.googleusercontent.com/drive-viewer/AKGpihYYa_2FiyedBrfYKJqWseE2uDLneFPZ2P1DgwYo8rZNkMRwk6uDW7OAW5KzQs6UuQYASsu076pM6mzQNcZAy3uOXVcsZuLBGWY=s1600-rw-v1"
+      },
+      {
+        "img": "https://lh3.googleusercontent.com/drive-viewer/AKGpihYfUaP_t3jjJPH8dycOrYTTxDMv8Bc2x9EPBlNKWGy8J2scTeZSBKDexnVRy1DieEwD8gbKI-JmmgJYvWoxCMB_O1WL0nVWwR4=s1600-rw-v1 "
       }
     ]
   }

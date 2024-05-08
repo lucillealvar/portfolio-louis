@@ -5,7 +5,8 @@ import { useRef, useState } from "react";
 import { createPortal } from "react-dom";
 import ReactPlayer from "react-player";
 import EnlargeImage from "../../components/EnlargeImage/EnlargeImage";
-import Steam from '../../assets/icons/steamicon.png';
+import Steam from "../../assets/icons/steamicon.png";
+import { FaSearchPlus } from "react-icons/fa";
 import { HiUserGroup } from "react-icons/hi";
 
 function ProjectsPage() {
@@ -14,7 +15,6 @@ function ProjectsPage() {
   const playerRef = useRef(null);
   const [selectedOpen, setSelectedOpen] = useState(false);
   const [selectedImage, setSelectedImage] = useState(null);
-
 
   //handle selected image click
   const handleImageClick = (img) => {
@@ -25,7 +25,7 @@ function ProjectsPage() {
   const handleClose = () => {
     setSelectedOpen(false);
   };
-  const steam = project.steam
+  const steam = project.steam;
 
   return (
     <div className="project">
@@ -42,23 +42,22 @@ function ProjectsPage() {
           height="450px"
         />
         <div className="project-details_links">
-        <a href={steam}>
-        <div className="project-details_steam">
-          <img src={Steam} alt="steam" className="steam"/>
-          <h3>{project.title} on steam</h3>
-        </div>
-        </a>
-        <div className="project-details_links-team">
-          <img alt="engine" src={project.engine} className="engine-image"/>
-          <div className="users">
-          <HiUserGroup className="userteam"/>
-          <p className="numberteam">{project.team}</p>
-        </div>
-        </div>
+          <a href={steam}>
+            <div className="project-details_steam">
+              <img src={Steam} alt="steam" className="steam" />
+              <h3>{project.title} on steam</h3>
+            </div>
+          </a>
+          <div className="project-details_links-team">
+            <img alt="engine" src={project.engine} className="engine-image" />
+            <div className="users">
+              <HiUserGroup className="userteam" />
+              <p className="numberteam">{project.team}</p>
+            </div>
+          </div>
         </div>
         <div className="project-details_info">
-          <p className="project-details_info-description">
-            {project.description}
+          <p className="project-details_info-description" dangerouslySetInnerHTML={{ __html: project.description.replace(/\n/g, "<br>") }}>
           </p>
           <h4 className="project-details_info-skills">
             During this project, I developed the following skills:
@@ -86,13 +85,13 @@ function ProjectsPage() {
           <ul className="project-details_images-list">
             {project.contents.map((contents, index) => (
               <li className="list" key={index}>
-                <img
-                className="image"
-                  alt="project"
-                  src={contents.img}
+                <img className="image" alt="project" src={contents.img} />
+                <div
+                  className="overlay"
                   onClick={() => handleImageClick(contents.img)}
-                />
-                <div className="overlay"></div>
+                >
+                  <FaSearchPlus className="overlay-img" />
+                </div>
               </li>
             ))}
           </ul>
