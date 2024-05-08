@@ -7,4 +7,4 @@ function UnrealPage() {
   )
 }
 
-export default UnrealPage
+export default UnrealPage;

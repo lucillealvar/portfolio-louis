@@ -23,7 +23,7 @@ function PersonalProjects({ personal }) {
               <li key={index}>
                 <div className="img">
                   {/* Anchor link to scroll to the project */}
-                  <Link to={`/personal-projects/unity/${index}`}>
+                  <Link to={`/personal-projects/unity`}>
                     <img src={project.image} alt={project.title} />
                   </Link>
                 </div>
@@ -40,7 +40,7 @@ function PersonalProjects({ personal }) {
               <li key={index}>
                 <div className="img">
                   {/* Anchor link to scroll to the project */}
-                  <Link to={`/personal-projects/unreal/${index}`}>
+                  <Link to={`/personal-projects/unreal`}>
                     <img src={project.image} alt={project.title} />
                   </Link>
                 </div>

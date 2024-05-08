@@ -57,8 +57,7 @@ function ProjectsPage() {
           </div>
         </div>
         <div className="project-details_info">
-          <p className="project-details_info-description">
-            {project.description}
+          <p className="project-details_info-description" dangerouslySetInnerHTML={{ __html: project.description.replace(/\n/g, "<br>") }}>
           </p>
           <h4 className="project-details_info-skills">
             During this project, I developed the following skills:
