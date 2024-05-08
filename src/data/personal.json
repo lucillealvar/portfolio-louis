@@ -24,15 +24,15 @@
         "title":"Minions",
         "engine":"unreal",
         "image":"https://images-ext-1.discordapp.net/external/sj5GeBAX2-tWD_ck_ONX2lOkuybTYWstzUE51CtoqOA/https/lh3.googleusercontent.com/drive-viewer/AKGpihaOA7I07xq81f13qnOact7eTT7zaxazAKex0VfViSP_-_4eiLUgSmHyooKGjDHgik4DN1jYzFhl69r3PfFQURlm9eZJFyiRGck%3Ds1600-rw-v1?format=webp",
-        "video":"",
-        "description":"This project is an RTS like where you are able to control several units and give them orders like attack or cut trees.\n\nPersonal project I did by myself during employment gap. The goal was to maintain game development activity but also deepen my knowledge about unreal. I was able to do IA with Behavior Tree and EQS; learned about animation and retargeting; use Smart Objects, and so on. It's still WIP but I plan to go further on my free time."
+        "video":"https://www.youtube.com/watch?v=Eaajxvf5QbI",
+        "description":"This project is an RTS like where you are able to control several units and give them orders like attack or cut trees.\n\n I was able to do AI with Behavior Tree and EQS; learned about animation and retargeting; use Smart Objects, and so on. It's still WIP but I plan to go further on my free time."
     },
     {
         "title":"Log",
         "engine":"unreal",
         "image":"https://images-ext-1.discordapp.net/external/y1Ae_KUQD_wlUhv_OLlC2Tr6ccJmymAmRKQY5iRg0Wg/https/lh3.googleusercontent.com/drive-viewer/AKGpihaIwCtP47v-nP0xVRVRq4LP4dOBypTeKXrnZVtmgR2e-kpQmZGytheHa7ij8M4wcWoyyi3Nf14jyr4Q2r4zUXhXB8aEdeV40Fo%3Ds1600-rw-v1?format=webp&width=885&height=474",
         "video":"https://www.youtube.com/watch?v=GTAqC09QzBA",
-        "description":"A mix of simulation and scoring, the aim is to balance your robot population and harvest wood for them to reproduce.  Some robots are defective and will consume wood without reproducing which can endanger your robot population. \n\nI designed and implemented robot IA with Behavior Trees, a part of the controller, and implemented SFX and VFX for robots."
+        "description":"A mix of simulation and scoring, the aim is to balance your robot population and harvest wood for them to reproduce.  Some robots are defective and will consume wood without reproducing which can endanger your robot population. \n\nI designed and implemented robot AI with Behavior Trees, a part of the controller, and implemented SFX and VFX for robots."
     }
 
 ]
