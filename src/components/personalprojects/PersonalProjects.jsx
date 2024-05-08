@@ -16,7 +16,7 @@ function PersonalProjects({ personal }) {
       </div>
       <div className="personal-projects">
         {/* Unity Projects */}
-        <div className="unity-projects personal">
+        <div className="unity-projects work">
           <img alt="unity" src={unitylogo} className="engine-logo"/>
           <ul className="personal-projects_list">
             {unityProjects.map((project, index) => (
@@ -33,7 +33,7 @@ function PersonalProjects({ personal }) {
           </ul>
         </div>
         {/* Unreal Engine Projects */}
-        <div className="unreal-projects personal">
+        <div className="unreal-projects work">
           <img alt="unreal" src={unreallogo} className="engine-logo"/>
           <ul className="personal-projects_list">
             {unrealProjects.map((project, index) => (
