@@ -31,9 +31,10 @@
     }
     &-projects {
         margin: 24px;
+        padding-bottom: 25px;
         display: flex;
         justify-content: center;
-        .personal {
+        .work {
             width: 50%;
             display: flex;
             flex-direction: column;

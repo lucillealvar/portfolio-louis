@@ -7,6 +7,7 @@ import AboutPage from "./Pages/AboutPage/AboutPage";
 import ProjectsPage from "./Pages/ProjectsPage/ProjectsPage";
 import UnityPage from "./Pages/UnityPage/UnityPage";
 import UnrealPage from "./Pages/UnrealPage/UnrealPage";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
           <Route path="/personal-projects/unreal" element={<UnrealPage />} />
         </Routes>
       </BrowserRouter>
+      <Footer/>
     </>
   );
 }
