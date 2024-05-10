@@ -14,7 +14,7 @@ function AboutPage() {
         <div className="about-description_details">
           <h3>Hi!</h3>
           <p>
-            I’m a French game designer living in Canada since 2018. After a
+            After a
             degree in Digital Marketing and a Business school, I had some
             experience as Community Manager for a Freelances Recruitment
             company. I always wanted to work in the Video Game Industry, but I
@@ -22,7 +22,7 @@ function AboutPage() {
             write a new chapter of my life and study Game Design.
           </p>
           <p>
-            I merely succeeded in my studies and was Valedictorian in Game
+            I succeeded in my studies and was Valedictorian in Game
             Design at Isart Digital Montreal. After the success of our
             graduation game, Blood Spear (PC, Steam), I was hired as a Game
             Design and Unity teacher by Studio XP. After a couple of months, I

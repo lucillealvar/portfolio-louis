@@ -23,14 +23,14 @@
     {
         "title":"Minions",
         "engine":"unreal",
-        "image":"https://drive.google.com/thumbnail?id=1SeJ-XafSw4G9UtQ1BGNfLFZS1w4dnr66&sz=w668",
+        "image":"https://drive.google.com/thumbnail?id=1Fu3q3qYzk8ZgMnrOpBokSmFhobPRAPRq&sz=w668",
         "video":"https://www.youtube.com/watch?v=Eaajxvf5QbI",
         "description":"This project is an RTS like where you are able to control several units and give them orders like attack or cut trees.\n\n I was able to do AI with Behavior Tree and EQS; learned about animation and retargeting; use Smart Objects, and so on. It's still WIP but I plan to go further on my free time."
     },
     {
         "title":"Log",
         "engine":"unreal",
-        "image":"https://drive.google.com/thumbnail?id=1Fu3q3qYzk8ZgMnrOpBokSmFhobPRAPRq&sz=w668",
+        "image":"https://drive.google.com/thumbnail?id=1SeJ-XafSw4G9UtQ1BGNfLFZS1w4dnr66&sz=w668",
         "video":"https://www.youtube.com/watch?v=GTAqC09QzBA",
         "description":"A mix of simulation and scoring, the aim is to balance your robot population and harvest wood for them to reproduce.  Some robots are defective and will consume wood without reproducing which can endanger your robot population. \n\nI designed and implemented robot AI with Behavior Trees, a part of the controller, and implemented SFX and VFX for robots."
     }
