@@ -1,7 +1,7 @@
 import "./ProjectsPage.scss";
 import data from "../../data/projects.json";
 import { useParams } from "react-router-dom";
-import { useRef, useState } from "react";
+import { useRef, useState, useEffect } from "react";
 import { createPortal } from "react-dom";
 import ReactPlayer from "react-player";
 import EnlargeImage from "../../components/EnlargeImage/EnlargeImage";
@@ -15,6 +15,10 @@ function ProjectsPage() {
   const playerRef = useRef(null);
   const [selectedOpen, setSelectedOpen] = useState(false);
   const [selectedImage, setSelectedImage] = useState(null);
+
+  useEffect(() => {
+    window.scrollTo(0, 0); // Scroll to the top of the page when component mounts
+  }, []);
 
   //handle selected image click
   const handleImageClick = (img) => {
