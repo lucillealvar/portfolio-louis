@@ -206,5 +206,48 @@
         "img": "https://lh3.googleusercontent.com/drive-viewer/AKGpihYfUaP_t3jjJPH8dycOrYTTxDMv8Bc2x9EPBlNKWGy8J2scTeZSBKDexnVRy1DieEwD8gbKI-JmmgJYvWoxCMB_O1WL0nVWwR4=s1600-rw-v1 "
       }
     ]
+  },
+    {
+    "title": "Dead By Daylight",
+    "channel": "3C Game Designer",
+    "steam": "https://store.steampowered.com/app/381210/Dead_by_Daylight/",
+    "video": "https://www.youtube.com/watch?v=Roi70W-r730",
+    "image": "https://lh3.googleusercontent.com/drive-viewer/AKGpihaUVQz2ZOZBM2HDfWdIR3tOQAqIAS8tks5AwBcAUW1ouBcmWSsjHTb9fnBIIwR15B7GEXzcqVTQVTb5uXpcmyvlJoTcDiJC9g=s2560",
+    "banner": "https://images-ext-1.discordapp.net/external/MEtsQDwylYi5GP5yqcyPCGt07EW5-4Xmxg1Z2KIWPyY/https/lh3.googleusercontent.com/drive-viewer/AKGpihZcklun1WCoTLQx4ZTf6TIzC382a2zwoxUgm1Hhw2QA05QSLA6iZ-1VUrKuj72rkDG969iR-hgONErzmMqFf3Q_WcOz-t7DC_c%3Ds1600-rw-v1?format=webp&width=885&height=146",
+    "description": "Dead by Daylight is an asymmetrical multiplayer horror live service game developed by Behaviour Interactive, first released in 2016. It often figures in the top 15 games streamed on TwitchTV. \n\n5 players: One killer and 4 survivors play in an arena-like map filled with broken generators. Survivors have to repair the generators in order to escape while the Killer is hunting them. \n\nIts live service is based over DLCs bringing new content to the game such as new killers, survivors, maps, cosmetics, etc. The game is also known to bring some of the biggest horror official licenses featured in the game like Halloween. Resident Evil or FNAF but also some other pop culture as Stranger Things. \n\nAs a 3C Game Designer, I was in charge of the 41st Killer to be released called the Krasue.",
+    "engine":"https://immersivedesignstudios.com/wp-content/uploads/2017/05/1425334231-unreal-engine-logo.png",
+    "team" : "10-50",
+    "design": [
+      {
+        "skill": "Define character's abilities, metrics, button mapping and control layout"
+      },
+      {
+        "skill": "Design requirements on a double form killer including Animation, VFX, SFX, Prog, UX, UI"
+      },
+      {
+        "skill": "Conduct internal and external playtests to gather feedback"
+      },
+            {
+        "skill": "Balance and Iterate in a 4v1 asymmetrical PvP Live Game context"
+      }
+    ],
+    "communication": [
+      {
+        "skill": "Conduct syncs for all the killer team including Animation, Design, Art, Prog and QAt"
+      },
+      {
+        "skill": "Write and maintain design documents used by Design, Art, Prog and QA"
+      }
+    ],
+    "tech": [
+      {
+        "skill": "Use Data Assets, Data Tables and Curves in Unreal Enginen"
+      },
+      {
+        "skill": "Manage commit and push using Perforce and Unreal Game Sync"
+      }
+    ],
+    "contents": [
+    ]
   }
 ]
