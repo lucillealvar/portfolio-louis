@@ -4,10 +4,6 @@ import "./NavBar.scss";
 import projectsData from "../../data/projects.json";
 
 function NavBar() {
-    const isClickable = (index) => {
-    return index !== 0;
-  };
-
 
   return (
     <div className="nav">
