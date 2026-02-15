@@ -1,67 +1,20 @@
 [
   {
-   "title": "Reflector",
-  "channel": "Technical Game Designer",
-  "steam": "",
-  "video": "",
-  "image": "https://i.imgur.com/OZKvPcX.png",
-  "banner": "",
-  "description": "",
-  "engine":"https://immersivedesignstudios.com/wp-content/uploads/2017/05/1425334231-unreal-engine-logo.png",
-  "team" : "??",
-      "design": [
-      {
-        "skill": ""
-      },
-      {
-        "skill": ""
-      },
-      {
-        "skill": ""
-      },
-            {
-        "skill": ""
-      }
-    ],
-    "communication": [
-      {
-        "skill": ""
-      },
-      {
-        "skill": ""
-      }
-    ],
-    "tech": [
-      {
-        "skill": ""
-      },
-      {
-        "skill": ""
-      }
-    ],
-    "contents": [
-      {
-        "img": ""
-      },
-      {
-        "img": ""
-      },
-      {
-        "img": ""
-      },
-      {
-        "img": ""
-      },
-      {
-        "img": ""
-      },
-      {
-        "img": ""
-      }
-    ]
-
+    "title": "Reflector",
+    "channel": "Technical Game Designer",
+    "steam": "",
+    "video": "https://i.imgur.com/OZKvPcX.png",
+    "image": "https://i.imgur.com/OZKvPcX.png",
+    "banner": "https://i.imgur.com/OZKvPcX.png",
+    "description": "",
+    "engine": "https://immersivedesignstudios.com/wp-content/uploads/2017/05/1425334231-unreal-engine-logo.png",
+    "team": "??",
+    "design": [{ "skill": "TBA" }],
+    "communication": [{ "skill": "TBA" }],
+    "tech": [{ "skill": "TBA" }],
+    "contents": []
   },
-      {
+  {
     "title": "Dead By Daylight",
     "channel": "3C Game Designer",
     "steam": "https://store.steampowered.com/app/381210/Dead_by_Daylight/",
@@ -69,8 +22,8 @@
     "image": "https://i.imgur.com/5BPCD42.jpeg",
     "banner": "https://i.imgur.com/Uk8kdsh.jpeg",
     "description": "Dead by Daylight is an asymmetrical multiplayer horror live service game developed by Behaviour Interactive, first released in 2016. It often figures in the top 15 games streamed on TwitchTV. \n\n5 players: One killer and 4 survivors play in an arena-like map filled with broken generators. Survivors have to repair the generators in order to escape while the Killer is hunting them. \n\nIts live service is based over DLCs bringing new content to the game such as new killers, survivors, maps, cosmetics, etc. The game is also known to bring some of the biggest horror official licenses featured in the game like Halloween. Resident Evil or FNAF but also some other pop culture as Stranger Things. \n\nAs a 3C Game Designer, I was in charge of the 41st Killer to be released called the Krasue.",
-    "engine":"https://immersivedesignstudios.com/wp-content/uploads/2017/05/1425334231-unreal-engine-logo.png",
-    "team" : "10-50",
+    "engine": "https://immersivedesignstudios.com/wp-content/uploads/2017/05/1425334231-unreal-engine-logo.png",
+    "team": "10-50",
     "design": [
       {
         "skill": "Define character's abilities, metrics, button mapping and control layout"
@@ -81,7 +34,7 @@
       {
         "skill": "Conduct internal and external playtests to gather feedback"
       },
-            {
+      {
         "skill": "Balance and Iterate in a 4v1 asymmetrical PvP Live Game context"
       }
     ],
@@ -120,7 +73,6 @@
       {
         "img": "https://i.imgur.com/dz6m2ky.png"
       }
-
     ]
   },
   {
@@ -131,8 +83,8 @@
     "image": "https://i.imgur.com/GU1oXhl.png",
     "banner": "https://i.imgur.com/MoIAM4x.png",
     "description": "Dead Matter is a rogue-lite zombie survival game currently in early access and developed by Quantum Integrity Software Inc. The game was originally created and released as a mod for Crysis 2 back in 2012. After moving on Unreal Engine, they launched an Indiegogo crowdfunding campaign in 2018 that gathered more than 1.3 millions dollars. \n\nUnfortunately, lacking of real structure and experimented developers, the studio struggled in its production. I was hired as Gameplay System Designer in march 2022, as only real Game Designer in the crew to try to give a second breath to the project. ",
-    "engine":"https://immersivedesignstudios.com/wp-content/uploads/2017/05/1425334231-unreal-engine-logo.png",
-    "team" : "5 - 20",
+    "engine": "https://immersivedesignstudios.com/wp-content/uploads/2017/05/1425334231-unreal-engine-logo.png",
+    "team": "5 - 20",
     "design": [
       {
         "skill": "Write tasks, workflows, and design specifications"
@@ -201,8 +153,8 @@
     "image": "https://i.imgur.com/WQ7EsVk.png",
     "banner": "https://i.imgur.com/BS4Fjvw.jpeg",
     "description": "Blood Spear is a student game which won the first prize of the jury at ISART Digital Montréal in 2021 and is overwhelmingly positive on Steam with more than 1800 reviews. \n\nFeaturing action ranged gameplay, you play as the Blood Spear, a cursed weapon with demonic powers who is able to possess the body of dead ghosts. \n\nThis grants you many abilities, like a powerful throw, a way to cheat death, and the power to absorb the blood of your enemies in order to heal yourself. ",
-    "engine":"https://immersivedesignstudios.com/wp-content/uploads/2017/05/1425334231-unreal-engine-logo.png",
-    "team":"8",
+    "engine": "https://immersivedesignstudios.com/wp-content/uploads/2017/05/1425334231-unreal-engine-logo.png",
+    "team": "8",
     "design": [
       {
         "skill": "Designing patterns, moves and fight area."
@@ -239,7 +191,6 @@
       {
         "skill": "Scrum Master on JIRA."
       }
-
     ],
     "tech": [
       {
@@ -278,8 +229,8 @@
     "image": "https://i.imgur.com/eLpDXLN.png",
     "banner": "https://i.imgur.com/1mw7TZ1.png",
     "description": " DUM DUM DINOS is a turn based mobile game that mix features from building tetris and real time tactical games. Create buildings and upgrade them in the construction phase to have access to powerful units and take over the objectives during the battle phase.",
-    "engine":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/1920px-Unity_2021.svg.png",
-    "team" : "8",
+    "engine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/1920px-Unity_2021.svg.png",
+    "team": "8",
     "design": [
       {
         "skill": "Game System Design"
