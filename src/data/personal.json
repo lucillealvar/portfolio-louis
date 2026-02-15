@@ -2,35 +2,35 @@
     {
         "title":"2Gether",
         "engine":"unity",
-        "image":"https://drive.google.com/thumbnail?id=1iG5k0g3Oy9LNOmjcgDanx89VHPvGVBpx&sz=w668",
+        "image":"https://i.imgur.com/TpEs4vr.png",
         "video":"https://vimeo.com/516377739",
         "description":"You play as a spirit inside a golem and you have to jump out to unlock your path resolving puzzles and go forward together.\n\nI designed 3C, puzzles, levels and integrated environment assets in the game."
     },
     {
         "title":"Beeware",
         "engine":"unity",
-        "image":"https://drive.google.com/thumbnail?id=1k3V9eDNxjVNYHsPsWYYbR2as8TJf4S-9&sz=w668",
+        "image":"https://i.imgur.com/etLD0Z6.png",
         "video":"https://www.youtube.com/watch?v=Ox9sjQprNYw",
         "description":"BeeWare is a 3C project (Character, Camera, Controller) in which you play as a bee who has to get to the end of each level without overheating.\n\nI designed the second level, a part of 3C, and scripted some Level Design Objects Tools in C# for my teamates."
     },
     {
         "title":"Homing Pigeon",
         "engine":"unity",
-        "image":"https://drive.google.com/thumbnail?id=1JmDrYsydWjo8Mwz2joBrxkRsXzBM1bEA&sz=w668",
+        "image":"https://i.imgur.com/xvC7Z2o.png",
         "video":"https://www.youtube.com/watch?v=hy9ZdCWCSnw",
         "description":"You play a pigeon without a ticket in the Montreal subway and you have to get out before the ticket inspector arrives. Nevertheless, you quickly realize that this subway is not as the most common. \n\nI designed the Bathroom Wagon level, Scripted the Controller and Game Objects in C#."
     },
     {
         "title":"Minions",
         "engine":"unreal",
-        "image":"https://drive.google.com/thumbnail?id=1Fu3q3qYzk8ZgMnrOpBokSmFhobPRAPRq&sz=w668",
+        "image":"https://i.imgur.com/Hmwqwxn.png",
         "video":"https://www.youtube.com/watch?v=GdSyzpDP-hM",
         "description":"This project is an RTS like where you are able to control several units and give them orders like attack or cut trees.\n\n I was able to do AI with Behavior Tree and EQS; learned about animation and retargeting; use Smart Objects, and so on. It's still WIP but I plan to go further on my free time."
     },
     {
         "title":"Log",
         "engine":"unreal",
-        "image":"https://drive.google.com/thumbnail?id=1SeJ-XafSw4G9UtQ1BGNfLFZS1w4dnr66&sz=w668",
+        "image":"https://i.imgur.com/F5pOvEi.png",
         "video":"https://www.youtube.com/watch?v=GTAqC09QzBA",
         "description":"A mix of simulation and scoring, the aim is to balance your robot population and harvest wood for them to reproduce.  Some robots are defective and will consume wood without reproducing which can endanger your robot population. \n\nI designed and implemented robot AI with Behavior Trees, a part of the controller, and implemented SFX and VFX for robots."
     }

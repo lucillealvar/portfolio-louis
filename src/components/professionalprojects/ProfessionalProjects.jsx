@@ -2,7 +2,10 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./ProfessionalProjects.scss";
 
-function ProfessionalProjects({projects}) {
+function ProfessionalProjects({ projects }) {
+  const isClickable = (index) => {
+    return index !== 0;
+  };
   return (
     <div className="professional">
       <div className="professional-title">
@@ -10,16 +13,25 @@ function ProfessionalProjects({projects}) {
       </div>
       <div className="professional-projects">
         <ul className="professional-projects_list">
-          {projects && projects.map((project, index) => (
-            <li key={index}>
+          {projects &&
+            projects.map((project, index) => (
+              <li key={index}>
                 <div className="img">
-                  <Link to={`/projects/${index}`} key={index}>
-                  <img  src={project.image} alt={project.title}/>
-                  </Link>
+                  {isClickable(index) ? (
+                    <Link to={`/projects/${index}`} key={index}>
+                      <img src={project.image} alt={project.title} />
+                    </Link>
+                  ) : (
+                    <img src={project.image} alt={project.title} />
+                  )}
+{/*/** <Link to={`/projects/${index}`} key={index}>
+                      <img src={project.image} alt={project.title} />
+                    </Link>
+ */}
                 </div>
-              <h3 className="role">{project.channel}</h3>
-            </li>
-          ))}
+                <h3 className="role">{project.channel}</h3>
+              </li>
+            ))}
         </ul>
       </div>
     </div>

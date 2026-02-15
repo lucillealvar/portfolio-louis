@@ -1,11 +1,135 @@
 [
   {
+   "title": "Reflector",
+  "channel": "Technical Game Designer",
+  "steam": "",
+  "video": "",
+  "image": "https://i.imgur.com/OZKvPcX.png",
+  "banner": "",
+  "description": "",
+  "engine":"https://immersivedesignstudios.com/wp-content/uploads/2017/05/1425334231-unreal-engine-logo.png",
+  "team" : "??",
+      "design": [
+      {
+        "skill": ""
+      },
+      {
+        "skill": ""
+      },
+      {
+        "skill": ""
+      },
+            {
+        "skill": ""
+      }
+    ],
+    "communication": [
+      {
+        "skill": ""
+      },
+      {
+        "skill": ""
+      }
+    ],
+    "tech": [
+      {
+        "skill": ""
+      },
+      {
+        "skill": ""
+      }
+    ],
+    "contents": [
+      {
+        "img": ""
+      },
+      {
+        "img": ""
+      },
+      {
+        "img": ""
+      },
+      {
+        "img": ""
+      },
+      {
+        "img": ""
+      },
+      {
+        "img": ""
+      }
+    ]
+
+  },
+      {
+    "title": "Dead By Daylight",
+    "channel": "3C Game Designer",
+    "steam": "https://store.steampowered.com/app/381210/Dead_by_Daylight/",
+    "video": "https://www.youtube.com/watch?v=Roi70W-r730",
+    "image": "https://i.imgur.com/5BPCD42.jpeg",
+    "banner": "https://i.imgur.com/Uk8kdsh.jpeg",
+    "description": "Dead by Daylight is an asymmetrical multiplayer horror live service game developed by Behaviour Interactive, first released in 2016. It often figures in the top 15 games streamed on TwitchTV. \n\n5 players: One killer and 4 survivors play in an arena-like map filled with broken generators. Survivors have to repair the generators in order to escape while the Killer is hunting them. \n\nIts live service is based over DLCs bringing new content to the game such as new killers, survivors, maps, cosmetics, etc. The game is also known to bring some of the biggest horror official licenses featured in the game like Halloween. Resident Evil or FNAF but also some other pop culture as Stranger Things. \n\nAs a 3C Game Designer, I was in charge of the 41st Killer to be released called the Krasue.",
+    "engine":"https://immersivedesignstudios.com/wp-content/uploads/2017/05/1425334231-unreal-engine-logo.png",
+    "team" : "10-50",
+    "design": [
+      {
+        "skill": "Define character's abilities, metrics, button mapping and control layout"
+      },
+      {
+        "skill": "Design requirements on a double form killer including Animation, VFX, SFX, Prog, UX, UI"
+      },
+      {
+        "skill": "Conduct internal and external playtests to gather feedback"
+      },
+            {
+        "skill": "Balance and Iterate in a 4v1 asymmetrical PvP Live Game context"
+      }
+    ],
+    "communication": [
+      {
+        "skill": "Conduct syncs for all the killer team including Animation, Design, Art, Prog and QAt"
+      },
+      {
+        "skill": "Write and maintain design documents used by Design, Art, Prog and QA"
+      }
+    ],
+    "tech": [
+      {
+        "skill": "Use Data Assets, Data Tables and Curves in Unreal Enginen"
+      },
+      {
+        "skill": "Manage commit and push using Perforce and Unreal Game Sync"
+      }
+    ],
+    "contents": [
+      {
+        "img": "https://i.imgur.com/5msaTjt.jpeg"
+      },
+      {
+        "img": "https://i.imgur.com/vBQ54fk.jpeg"
+      },
+      {
+        "img": "https://i.imgur.com/pddfrD4.jpeg"
+      },
+      {
+        "img": "https://i.imgur.com/umKELFX.png"
+      },
+      {
+        "img": "https://i.imgur.com/BY6knhD.jpeg"
+      },
+      {
+        "img": "https://i.imgur.com/dz6m2ky.png"
+      }
+
+    ]
+  },
+  {
     "title": "Dead Matter",
     "channel": "Gameplay System Designer",
     "steam": "https://store.steampowered.com/app/2184150/Dead_Matter/",
     "video": "https://youtu.be/PsYYFfMquBg?si=mqQlxiNpLLtkpz5o",
-    "image": "https://drive.google.com/thumbnail?id=1pLv-1pRcYDuO07oQOm4CUh1Llaku_Epo&sz=w668",
-    "banner": "https://drive.google.com/thumbnail?id=1wOEVLx1srDrYc0TqFFcm3Y1vKkthan2d&sz=w885",
+    "image": "https://i.imgur.com/GU1oXhl.png",
+    "banner": "https://i.imgur.com/MoIAM4x.png",
     "description": "Dead Matter is a rogue-lite zombie survival game currently in early access and developed by Quantum Integrity Software Inc. The game was originally created and released as a mod for Crysis 2 back in 2012. After moving on Unreal Engine, they launched an Indiegogo crowdfunding campaign in 2018 that gathered more than 1.3 millions dollars. \n\nUnfortunately, lacking of real structure and experimented developers, the studio struggled in its production. I was hired as Gameplay System Designer in march 2022, as only real Game Designer in the crew to try to give a second breath to the project. ",
     "engine":"https://immersivedesignstudios.com/wp-content/uploads/2017/05/1425334231-unreal-engine-logo.png",
     "team" : "5 - 20",
@@ -50,22 +174,22 @@
     ],
     "contents": [
       {
-        "img": "https://drive.google.com/thumbnail?id=18j17iABSh3Q7cBcheTpCG12mjd1_SOA2&sz=w1600"
+        "img": "https://i.imgur.com/HA4y9AM.png"
       },
       {
-        "img": "https://drive.google.com/thumbnail?id=1LgLPTlu0WfCcCoBTYY_JxnFGZF2GCC8i&sz=w1600"
+        "img": "https://i.imgur.com/mqEOVjR.png"
       },
       {
-        "img": "https://drive.google.com/thumbnail?id=1wd7_N_BtQeSwa-m6rgR12Aowxp69D4_8&sz=w1600"
+        "img": "https://i.imgur.com/Dx8hFXz.gif"
       },
       {
-        "img": "https://drive.google.com/thumbnail?id=1Dpuc7kyTykMSIbFoB0gKFR6X6-crCbH5&sz=w1600"
+        "img": "https://i.imgur.com/HA4y9AM.png"
       },
       {
-        "img": "https://drive.google.com/thumbnail?id=1dBBgDV00P5gPtTduKyAQb0hNWKzFMCgh&sz=w1600"
+        "img": "https://i.imgur.com/hu1XoUl.png"
       },
       {
-        "img": "https://drive.google.com/thumbnail?id=1uC6xN3q5-sLxmXNgOL6PQ8QJhgccVFx0&sz=w1600"
+        "img": "https://i.imgur.com/dJFGzr1.gif"
       }
     ]
   },
@@ -74,8 +198,8 @@
     "channel": "Game Designer",
     "steam": "https://store.steampowered.com/app/1638660/Blood_Spear/",
     "video": "https://youtu.be/o6tMhmhJ4os?si=zk9w4cXf7H4uV60G",
-    "image": "https://drive.google.com/thumbnail?id=1L3NEGMASwMvdGhJ427P6wAkdSDZMxA1h&sz=w668",
-    "banner": "https://drive.google.com/thumbnail?id=1MSA05KBk4_7JIiJGOSY39zO8g0SBxn1Q&sz=w885",
+    "image": "https://i.imgur.com/WQ7EsVk.png",
+    "banner": "https://i.imgur.com/BS4Fjvw.jpeg",
     "description": "Blood Spear is a student game which won the first prize of the jury at ISART Digital Montréal in 2021 and is overwhelmingly positive on Steam with more than 1800 reviews. \n\nFeaturing action ranged gameplay, you play as the Blood Spear, a cursed weapon with demonic powers who is able to possess the body of dead ghosts. \n\nThis grants you many abilities, like a powerful throw, a way to cheat death, and the power to absorb the blood of your enemies in order to heal yourself. ",
     "engine":"https://immersivedesignstudios.com/wp-content/uploads/2017/05/1425334231-unreal-engine-logo.png",
     "team":"8",
@@ -127,22 +251,22 @@
     ],
     "contents": [
       {
-        "img": "https://drive.google.com/thumbnail?id=1YAzTgT6IXMcFV9ssKrf_-tjGL5eI7S3i&sz=w1600"
+        "img": "https://i.imgur.com/FWO34Kl.png"
       },
       {
-        "img": "https://drive.google.com/thumbnail?id=18w7O9-WLXMOqFjCZbS9Fp7XUzRnK2ERi&sz=w1600"
+        "img": "https://i.imgur.com/cvdtovO.gif"
       },
       {
-        "img": "https://drive.google.com/thumbnail?id=1UhS_IcXg6fKMvI2qKovL1o_XaWhYnfiw&sz=w1600"
+        "img": "https://i.imgur.com/5kMojlz.gif"
       },
       {
-        "img": "https://drive.google.com/thumbnail?id=1D5rMEWeg4eXgqoSrIQvcV34DLF66It_u&sz=w1600"
+        "img": "https://i.imgur.com/zse3R0w.png"
       },
       {
-        "img": "https://drive.google.com/thumbnail?id=1_aqrk3aMl1OhBIFXlJ19GITpsPbv8iuB&sz=w1600"
+        "img": "https://i.imgur.com/ODfrI8s.gif"
       },
       {
-        "img": "https://drive.google.com/thumbnail?id=1OdYGV4RipYSjQoXODLxooQxob5TyZT0Z&sz=w1600"
+        "img": "https://i.imgur.com/2vxOMFV.gif"
       }
     ]
   },
@@ -151,8 +275,8 @@
     "channel": "Lead Game Designer",
     "steam": "https://store.steampowered.com/app/1462120/Dum_Dum_Dinos/",
     "video": " https://www.youtube.com/watch?v=UHDnFJl_BuI",
-    "image": "https://drive.google.com/thumbnail?id=1Xcd-fc7wcO4uji02GN4pW3r3Dj-cNnvn&sz=w668",
-    "banner": "https://drive.google.com/thumbnail?id=1QcQTk83Q-R_Dt71lJ8_2U7ueIYcCK4Tv&sz=w885",
+    "image": "https://i.imgur.com/eLpDXLN.png",
+    "banner": "https://i.imgur.com/1mw7TZ1.png",
     "description": " DUM DUM DINOS is a turn based mobile game that mix features from building tetris and real time tactical games. Create buildings and upgrade them in the construction phase to have access to powerful units and take over the objectives during the battle phase.",
     "engine":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/1920px-Unity_2021.svg.png",
     "team" : "8",
@@ -188,22 +312,22 @@
     ],
     "contents": [
       {
-        "img": "https://drive.google.com/thumbnail?id=172dsmZoJ5ovqDZ66E11Q6nSRf2qCj8Lq&sz=w1600"
+        "img": "https://i.imgur.com/jQcEaM0.jpeg"
       },
       {
-        "img": "https://drive.google.com/thumbnail?id=1kir11RLVc-6kW-FJedeplIjHFfa0X12m&sz=w1600"
+        "img": "https://i.imgur.com/RygVxSb.jpeg"
       },
       {
-        "img": "https://drive.google.com/thumbnail?id=1XNejDva38fvteRMaOHjdOQaL2XOTzeXi&sz=w1600"
+        "img": "https://i.imgur.com/IFzEjdD.jpeg"
       },
       {
-        "img": "https://drive.google.com/thumbnail?id=1mtRxPyxPjL9xGvtHFr_6RxZHB6NxDnt9&sz=w1600"
+        "img": "https://i.imgur.com/iHl9Kiq.jpeg"
       },
       {
-        "img": "https://drive.google.com/thumbnail?id=1pZosAc2s-D2vjj9vipD4BRSldoJcDkVH&sz=w1600"
+        "img": "https://i.imgur.com/8tpHdZw.jpeg"
       },
       {
-        "img": "https://drive.google.com/thumbnail?id=17eaTd1U1WIpjdDKpetk4njBUZKJu-r8R&sz=w1600"
+        "img": "https://i.imgur.com/yBETheF.jpeg"
       }
     ]
   }

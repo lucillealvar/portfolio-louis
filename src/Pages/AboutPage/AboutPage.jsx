@@ -14,32 +14,29 @@ function AboutPage() {
         <div className="about-description_details">
           <h3>Hi!</h3>
           <p>
-            After a
-            degree in Digital Marketing and a Business school, I had some
-            experience as Community Manager for a Freelances Recruitment
-            company. I always wanted to work in the Video Game Industry, but I
-            felt more comfortable in creating them instead, so I decided to
-            write a new chapter of my life and study Game Design.
+            I always wanted to work in the Video Game Industry, but I felt more
+            comfortable in creating them instead. I decided to write a new
+            chapter of my life and study Game Design after a Business school and
+            a degree in Digital Marketing.{" "}
           </p>
           <p>
-            I succeeded in my studies and was Valedictorian in Game
-            Design at Isart Digital Montreal. After the success of our
-            graduation game, Blood Spear (PC, Steam), I was hired as a Game
-            Design and Unity teacher by Studio XP. After a couple of months, I
-            was able to get a Gameplay System Designer role at Quantum Integrity
-            Inc. for the game Dead Matter (PC, Steam).
+            After my graduation as Valedictorian in Game Design at Isart Digital
+            Montreal and the success of our graduation game, Blood Spear (PC,
+            Steam), I worked as Designer on games like Dead Matter (PC, Steam),
+            the famous Dead by Daylight and currently on an unannounced but
+            famous brand project for Bandai Namco at Reflector Entertainment.
           </p>
-          <h3>Who am I?</h3>
+          <h3>What I can bring to a team</h3>
           <p>
-            Thanks to my studies, I have a solid knowledge of design processes,
-            from the high level (emergence of the pitch, main pillars, target
-            audience, etc.) to design (pacing, golden path, gameplay loops,
-            in-engine implementation, etc.).
+            I have a solid knowledge of design processes, from the high level
+            (emergence of the pitch, main pillars, target audience, etc.) to
+            design (pacing, golden path, gameplay loops, in-engine
+            implementation, etc.).{" "}
           </p>
           <p>
-            My skills and experiences allow me to identify production problems
-            that can arise on a project, particularly in terms of communication,
-            scope, and resource management.
+            Besides Design, I also have technical skills with engines and Unreal
+            became my greatest crafting tool. I love building gameplay
+            ingredients or tools for my fellow Level Designers.{" "}
           </p>
           <p>
             On a personal level, my passion for teamwork strives to be
@@ -52,11 +49,15 @@ function AboutPage() {
             will probably tell you that I am smiling and having fun. I am also
             known to be a driving force, allowing a project to go forward.
           </p>
+          <h3>What I am looking for</h3>
           <p>
-            My dream is one day to create a crew with people I admire and are as
-            good professionals as human beings. Other than video games, I like
-            cooking, coffee, my cat Sidoy, roleplay games, electronic music,
-            board games, and barbecues.
+            Be part of a crew of people I admire and are as good professionals
+            as human beings. I am a true believer that success is done by
+            passionate individuals that want to make something special.
+          </p>
+          <p>
+            Other than video games, I like cooking, coffee, my cat Sidoy,
+            roleplay games, electronic music, board games, and barbecues.
           </p>
         </div>
       </div>

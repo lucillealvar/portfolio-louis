@@ -8,13 +8,13 @@ function Header(){
         <div className='header'>
             <div className='header-title'>
             <h1>Louis Langlet</h1>
-            <h3>Intermediate Game Designer</h3>
+            <h3>Senior Game Designer</h3>
             </div>
             <div className='header-socials'>
                 <a href='https://www.linkedin.com/in/langletlouis/' rel="noreferrer" target='_blank'>
                 <img className='linkedin' src={LinkedIn} alt='linkedin'/>
                 </a>
-                <a href ={process.env.PUBLIC_URL + '/resume.pdf'} rel="noreferrer" target='_blank'>
+                <a href ={process.env.PUBLIC_URL + '/Resume_LouisLanglet-compressed.pdf'} rel="noreferrer" target='_blank'>
                 <img className='pdf' src={Pdf} alt='resume'/>
                 </a>
             </div>
