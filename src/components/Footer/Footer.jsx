@@ -28,7 +28,7 @@ function Footer() {
           </div>
         </span>
         <span className="footer-top_right">
-          <a href ={process.env.PUBLIC_URL + '/resume.pdf'} rel="noreferrer" target='_blank'>
+          <a href ={process.env.PUBLIC_URL + '/Resume_LouisLanglet-compressed.pdf'} rel="noreferrer" target='_blank'>
           <div className="footer-top_right-resume">
             <IoDocumentAttachOutline className="right_img" />
             <p>download my resume</p>
