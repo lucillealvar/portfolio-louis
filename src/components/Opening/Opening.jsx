@@ -5,9 +5,11 @@ function Opening() {
     <div className="opening">
       <h2>Welcome to Louis Langlet's Portfolio</h2>
       <p>
-        I am a creative professional with 3 years
-        professional game industry experience as <strong>Game Designer</strong>{" "}
-        . I graduated as valedictorian from Isart Digital Montréal in 2021,
+        I am a creative professional with 5 years of
+        professional game industry experience as <strong>Game Designer</strong>{" "}.
+      </p>
+      <p>
+        I graduated as valedictorian from Isart Digital Montréal in 2021,
         studying Game Design.
       </p>
       <p>

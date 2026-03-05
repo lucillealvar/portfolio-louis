@@ -14,8 +14,8 @@ function AboutPage() {
         <div className="about-description_details">
           <h3>Hi!</h3>
           <p>
-            I always wanted to work in the Video Game Industry, but I felt more
-            comfortable in creating them instead. I decided to write a new
+            I always wanted to work in the Video Game Industry, and I felt more
+            comfortable in creating them. I decided to write a new
             chapter of my life and study Game Design after a Business school and
             a degree in Digital Marketing.{" "}
           </p>
@@ -28,9 +28,9 @@ function AboutPage() {
           </p>
           <h3>What I can bring to a team</h3>
           <p>
-            I have a solid knowledge of design processes, from the high level
+            I have a solid knowledge of design processes, from high level
             (emergence of the pitch, main pillars, target audience, etc.) to
-            design (pacing, golden path, gameplay loops, in-engine
+            details (pacing, golden path, gameplay loops, in-engine
             implementation, etc.).{" "}
           </p>
           <p>
@@ -53,7 +53,7 @@ function AboutPage() {
           <p>
             Be part of a crew of people I admire and are as good professionals
             as human beings. I am a true believer that success is done by
-            passionate individuals that want to make something special.
+            passionate individuals that want to make something special together.
           </p>
           <p>
             Other than video games, I like cooking, coffee, my cat Sidoy,
