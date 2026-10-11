@@ -30,6 +30,7 @@ function ProfessionalProjects({ projects }) {
  */}
                 </div>
                 <h3 className="role">{project.channel}</h3>
+                {project.context && <p className="context">{project.context}</p>}
               </li>
             ))}
         </ul>

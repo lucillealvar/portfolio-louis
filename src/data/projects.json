@@ -1,7 +1,8 @@
 [
   {
-    "title": "Reflector",
+    "title": "Unannounced Project",
     "channel": "Technical Game Designer",
+    "context": "Reflector Entertainment (Bandai Namco) · Unreal Engine",
     "steam": "",
     "video": "https://i.imgur.com/OZKvPcX.png",
     "image": "https://i.imgur.com/OZKvPcX.png",
@@ -17,6 +18,7 @@
   {
     "title": "Dead By Daylight",
     "channel": "3C Game Designer",
+    "context": "Behaviour Interactive · Designed the 41st Killer, the Krasue",
     "steam": "https://store.steampowered.com/app/381210/Dead_by_Daylight/",
     "video": "https://www.youtube.com/watch?v=Roi70W-r730",
     "image": "https://i.imgur.com/5BPCD42.jpeg",
@@ -78,6 +80,7 @@
   {
     "title": "Dead Matter",
     "channel": "Gameplay System Designer",
+    "context": "Quantum Integrity Software · Gameplay systems for a rogue-lite zombie survival game",
     "steam": "https://store.steampowered.com/app/2184150/Dead_Matter/",
     "video": "https://youtu.be/PsYYFfMquBg?si=mqQlxiNpLLtkpz5o",
     "image": "https://i.imgur.com/GU1oXhl.png",
@@ -148,6 +151,7 @@
   {
     "title": "Blood Spear",
     "channel": "Game Designer",
+    "context": "ISART Digital Montréal · AI Boss Designer · Jury first prize 2021 · 1,800+ Steam reviews",
     "steam": "https://store.steampowered.com/app/1638660/Blood_Spear/",
     "video": "https://youtu.be/o6tMhmhJ4os?si=zk9w4cXf7H4uV60G",
     "image": "https://i.imgur.com/WQ7EsVk.png",
@@ -224,6 +228,7 @@
   {
     "title": "Dum Dum Dinos",
     "channel": "Lead Game Designer",
+    "context": "Studio Singing Crows · Turn-based mobile tactics game · Led game and level design",
     "steam": "https://store.steampowered.com/app/1462120/Dum_Dum_Dinos/",
     "video": " https://www.youtube.com/watch?v=UHDnFJl_BuI",
     "image": "https://i.imgur.com/eLpDXLN.png",
