@@ -6,23 +6,23 @@ import { IoDocumentAttachOutline } from "react-icons/io5";
 import { IoMailOutline } from "react-icons/io5";
 
 function Footer() {
-  const email = process.env.REACT_APP_EMAIL;
+  const email = process.env.REACT_APP_EMAIL || "l.langlet60@gmail.com";
 
   return (
     <div className="footer">
       <div className="footer-top">
         <span className="footer-top_left">
-          <h1 className="footer-top_left-title">Get in Touch</h1>
+          <h2 className="footer-top_left-title">Get in Touch</h2>
           <p className="footer-top_left-description">
             Reach out to me for collaboration opportunities or to discuss your
             project ideas!
           </p>
           <div className="footer-top_left-contact">
-            <a href='https://www.linkedin.com/in/langletlouis/' rel="noreferrer" target='_blank'>
+            <a href="https://www.linkedin.com/in/langletlouis/" rel="noreferrer" target="_blank" aria-label="LinkedIn profile">
               {" "}
               <IoLogoLinkedin className="left_img" />
             </a>
-            <a href='https://www.youtube.com/channel/UCBUFjjs68EyW33zhzNs2Y1A' rel="noreferrer" target='_blank'>
+            <a href="https://www.youtube.com/channel/UCBUFjjs68EyW33zhzNs2Y1A" rel="noreferrer" target="_blank" aria-label="YouTube channel">
             <IoLogoYoutube className="left_img" />
             </a>
           </div>
@@ -43,7 +43,7 @@ function Footer() {
         </span>
       </div>
       <div className="footer-bottom">
-        <p>&copy; {new Date().getFullYear()} Louis' Portfolio</p>
+        <p>&copy; {new Date().getFullYear()} Louis Langlet</p>
         <div className="footer-bottom_credits">
           <p>Created by</p>
           <a href='https://github.com/lucillealvar' rel="noreferrer" target='_blank'>
