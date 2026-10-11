@@ -8,6 +8,7 @@ import ProjectsPage from "./Pages/ProjectsPage/ProjectsPage";
 import UnityPage from "./Pages/UnityPage/UnityPage";
 import UnrealPage from "./Pages/UnrealPage/UnrealPage";
 import Footer from "./components/Footer/Footer";
+import "./App.scss";
 
 function App() {
   return (

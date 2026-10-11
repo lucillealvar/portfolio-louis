@@ -9,7 +9,7 @@ function ProfessionalProjects({ projects }) {
   return (
     <div className="professional">
       <div className="professional-title">
-        <h1>PROFESSIONAL PROJECTS</h1>
+        <h2>PROFESSIONAL PROJECTS</h2>
       </div>
       <div className="professional-projects">
         <ul className="professional-projects_list">

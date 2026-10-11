@@ -5,11 +5,11 @@ function AboutPage() {
   return (
     <div className="about">
       <div className="about-title">
-        <h1>ABOUT ME</h1>
+        <h2>ABOUT ME</h2>
       </div>
       <div className="about-description">
         <div className="img">
-          <img src={User} alt={User} />
+          <img src={User} alt="Portrait of Louis Langlet" />
         </div>
         <div className="about-description_details">
           <h3>Hi!</h3>

@@ -12,7 +12,7 @@ function PersonalProjects({ personal }) {
   return (
     <div className="personal">
       <div className="personal-title">
-        <h1>PERSONAL WORK</h1>
+        <h2>PERSONAL WORK</h2>
       </div>
       <div className="personal-projects">
         {/* Unity Projects */}

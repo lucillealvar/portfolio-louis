@@ -1,0 +1,11 @@
+// Section titles are <h2> for a proper heading hierarchy; keep the original h1 look.
+.professional-title h2,
+.personal-title h2,
+.about-title h2 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+.footer-top_left-title {
+  margin: 0.67em 0;
+}
