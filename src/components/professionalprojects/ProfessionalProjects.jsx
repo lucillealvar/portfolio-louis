@@ -7,7 +7,7 @@ function ProfessionalProjects({ projects }) {
     return index !== 0;
   };
   return (
-    <div className="professional">
+    <div className="professional" id="projects">
       <div className="professional-title">
         <h2>PROFESSIONAL PROJECTS</h2>
       </div>

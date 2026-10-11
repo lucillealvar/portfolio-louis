@@ -3,20 +3,27 @@ import "./Opening.scss";
 function Opening() {
   return (
     <div className="opening">
-      <h2>Welcome to Louis Langlet's Portfolio</h2>
+      <h2>
+        I design gameplay systems and interactions, wrapped in great narrative.
+      </h2>
       <p>
-        I am a creative professional with 5 years of
-        professional game industry experience as <strong>Game Designer</strong>{" "}.
+        6+ years in the game industry, working with Unreal Engine and Blueprints
+        on live-service, early-access and unannounced titles. Valedictorian of
+        Isart Digital Montréal, 2021.
       </p>
-      <p>
-        I graduated as valedictorian from Isart Digital Montréal in 2021,
-        studying Game Design.
-      </p>
-      <p>
-        I focus mainly on gameplay systems and interactions wrapped with great
-        narrative. I also build and script levels with Unreal Engine that has
-        become one of my greatest crafting tools, especially with blueprints.
-      </p>
+      <div className="opening-buttons">
+        <a
+          className="opening-button opening-button_primary"
+          href={process.env.PUBLIC_URL + "/Resume_LouisLanglet-compressed.pdf"}
+          rel="noreferrer"
+          target="_blank"
+        >
+          Download resume
+        </a>
+        <a className="opening-button" href="#projects">
+          See my work
+        </a>
+      </div>
     </div>
   );
 }
