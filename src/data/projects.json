@@ -9,7 +9,7 @@
     "banner": "https://i.imgur.com/OZKvPcX.png",
     "description": "An unannounced 3D adventure game developed at Reflector Entertainment (Bandai Namco) in Unreal Engine. The project was cancelled during pre-production, so I can't share images or footage, but here is what I worked on.\n\nAs a Technical Game Designer, I implemented interactable and save systems in Blueprint, owned gameplay sections from prototype to final, integrated companion and enemy AI, and made tools for level designers.",
     "engine": "https://immersivedesignstudios.com/wp-content/uploads/2017/05/1425334231-unreal-engine-logo.png",
-    "team": "70",
+    "team": "60-70",
     "design": [
       { "skill": "Help define the gameplay ingredient design pipeline, from design to completion" },
       { "skill": "Prototype new interactables, such as sliding doors and pressure plates, and build test gyms" }
