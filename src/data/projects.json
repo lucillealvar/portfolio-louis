@@ -12,7 +12,6 @@
     "team": "",
     "design": [
       { "skill": "Help define the gameplay ingredient design pipeline, from design to completion" },
-      { "skill": "Own gameplay sections from puzzle prototype to final version, including sequences built with Sequencer" },
       { "skill": "Prototype new interactables, such as sliding doors and pressure plates, and build test gyms" }
     ],
     "communication": [
@@ -21,6 +20,7 @@
     "tech": [
       { "skill": "Prototype and implement gameplay ingredients, including exotic ones, through to final assets" },
       { "skill": "Implement messaging, loading and save systems" },
+      { "skill": "Own gameplay sections from puzzle prototype to final version, including sequences built with Sequencer" },
       { "skill": "Implement a spawner system that holds up under level streaming and saving" },
       { "skill": "Implement the checkpoint and save system: restoring from several states and async saves inside sequences" },
       { "skill": "Migrate Blueprints from a deprecated interface to an event-based progression system, with function and macro libraries, and build generic triggers" },
