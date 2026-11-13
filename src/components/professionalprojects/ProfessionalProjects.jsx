@@ -3,9 +3,7 @@ import { Link } from "react-router-dom";
 import "./ProfessionalProjects.scss";
 
 function ProfessionalProjects({ projects }) {
-  const isClickable = (index) => {
-    return index !== 0;
-  };
+  const isClickable = () => true;
   return (
     <div className="professional" id="projects">
       <div className="professional-title">

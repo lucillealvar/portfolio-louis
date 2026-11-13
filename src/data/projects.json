@@ -4,15 +4,20 @@
     "channel": "Technical Game Designer",
     "context": "Reflector Entertainment (Bandai Namco) · Unreal Engine",
     "steam": "",
-    "video": "https://i.imgur.com/OZKvPcX.png",
+    "video": "",
     "image": "https://i.imgur.com/OZKvPcX.png",
     "banner": "https://i.imgur.com/OZKvPcX.png",
-    "description": "",
+    "description": "An unannounced 3D adventure game developed at Reflector Entertainment (Bandai Namco) in Unreal Engine. The project was cancelled during pre-production, so I can't share images or footage, but here is what I worked on.\n\nAs a Technical Game Designer, I designed, prototyped and implemented the game's core ingredients, built an AI companion, and supported the team with tools and debugging.",
     "engine": "https://immersivedesignstudios.com/wp-content/uploads/2017/05/1425334231-unreal-engine-logo.png",
-    "team": "??",
-    "design": [{ "skill": "TBA" }],
-    "communication": [{ "skill": "TBA" }],
-    "tech": [{ "skill": "TBA" }],
+    "team": "",
+    "design": [
+      { "skill": "Design, prototype and implement the game's core ingredients" }
+    ],
+    "communication": [],
+    "tech": [
+      { "skill": "Build an AI companion that patrols, interacts and navigates" },
+      { "skill": "Support the team with tools and debugging" }
+    ],
     "contents": []
   },
   {
