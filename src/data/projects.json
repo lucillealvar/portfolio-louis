@@ -19,6 +19,8 @@
       { "skill": "Write design documentation, set up tools and run workshops" }
     ],
     "tech": [
+      { "skill": "Prototype and implement gameplay ingredients, including exotic ones, through to final assets" },
+      { "skill": "Implement messaging, loading and save systems" },
       { "skill": "Implement a spawner system that holds up under level streaming and saving" },
       { "skill": "Implement the checkpoint and save system: restoring from several states and async saves inside sequences" },
       { "skill": "Migrate Blueprints from a deprecated interface to an event-based progression system, with function and macro libraries, and build generic triggers" },
