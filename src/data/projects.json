@@ -19,10 +19,9 @@
     ],
     "tech": [
       { "skill": "Prototype and implement gameplay ingredients, including exotic ones, through to final assets" },
-      { "skill": "Implement messaging, loading and save systems" },
+      { "skill": "Implement messaging, loading and save systems, and migrate Blueprints from a deprecated interface to an event-based progression system, with function and macro libraries and generic triggers" },
       { "skill": "Own gameplay sections from puzzle prototype to final version, including sequences built with Sequencer" },
       { "skill": "Implement spawner and checkpoint systems that hold up under level streaming and saving, restore from several states and handle async saves inside sequences" },
-      { "skill": "Migrate Blueprints from a deprecated interface to an event-based progression system, with function and macro libraries, and build generic triggers" },
       { "skill": "Integrate the AI companion: interactions, patrols, navigation links, stuck-case fixes and consistency on reload" },
       { "skill": "Set up enemy AI in levels: zones where stimuli are ignored and behavior volumes" },
       { "skill": "Build tools for level designers: spline platforms, a debug Editor Utility Widget, an in-editor preview system and a VFX component" },
