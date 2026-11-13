@@ -4,15 +4,28 @@
     "channel": "Technical Game Designer",
     "context": "Reflector Entertainment (Bandai Namco) · Unreal Engine",
     "steam": "",
-    "video": "https://i.imgur.com/OZKvPcX.png",
+    "video": "",
     "image": "https://i.imgur.com/OZKvPcX.png",
     "banner": "https://i.imgur.com/OZKvPcX.png",
-    "description": "",
+    "description": "An unannounced 3D adventure game developed at Reflector Entertainment (Bandai Namco) in Unreal Engine. The project was cancelled during pre-production, so I can't share images or footage, but here is what I worked on.\n\nAs a Technical Game Designer, I implemented interactable and save systems in Blueprint, owned gameplay sections from prototype to final, integrated companion and enemy AI, and made tools for level designers.",
     "engine": "https://immersivedesignstudios.com/wp-content/uploads/2017/05/1425334231-unreal-engine-logo.png",
-    "team": "??",
-    "design": [{ "skill": "TBA" }],
-    "communication": [{ "skill": "TBA" }],
-    "tech": [{ "skill": "TBA" }],
+    "team": "",
+    "design": [
+      { "skill": "Help define the gameplay ingredient design pipeline, from design to completion" },
+      { "skill": "Prototype new interactables, such as sliding doors and pressure plates, and build test gyms" }
+    ],
+    "communication": [
+      { "skill": "Write design documentation, set up tools and run workshops" }
+    ],
+    "tech": [
+      { "skill": "Prototype and implement gameplay ingredients, including exotic ones, through to final assets" },
+      { "skill": "Implement messaging, loading and save systems, and migrate Blueprints from a deprecated interface to an event-based progression system, with function and macro libraries and generic triggers" },
+      { "skill": "Own gameplay sections from puzzle prototype to final version, including sequences built with Sequencer" },
+      { "skill": "Implement spawner and checkpoint systems that hold up under level streaming and saving, restore from several states and handle async saves inside sequences" },
+      { "skill": "Integrate the AI companion (interactions, patrols, navigation links, stuck-case fixes, consistency on reload) and set up enemy AI in levels, with zones where stimuli are ignored and behavior volumes" },
+      { "skill": "Build tools for level designers: spline platforms, a debug Editor Utility Widget, an in-editor preview system and a VFX component" },
+      { "skill": "Fix bugs, collision issues and reload edge cases ahead of milestones" }
+    ],
     "contents": []
   },
   {

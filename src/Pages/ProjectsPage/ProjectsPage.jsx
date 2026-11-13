@@ -37,27 +37,33 @@ function ProjectsPage() {
         <img className="project-banner_img" alt="banner" src={project.banner} />
       </div>
       <div className="project-details">
-        <ReactPlayer
-          className="player"
-          ref={playerRef}
-          url={project.video}
-          controls={true}
-          width="100%"
-          height="450px"
-        />
+        {project.video && (
+          <ReactPlayer
+            className="player"
+            ref={playerRef}
+            url={project.video}
+            controls={true}
+            width="100%"
+            height="450px"
+          />
+        )}
         <div className="project-details_links">
-          <a href={steam}>
-            <div className="project-details_steam">
-              <img src={Steam} alt="steam" className="steam" />
-              <h3>{project.title} on steam</h3>
-            </div>
-          </a>
+          {steam && (
+            <a href={steam}>
+              <div className="project-details_steam">
+                <img src={Steam} alt="steam" className="steam" />
+                <h3>{project.title} on steam</h3>
+              </div>
+            </a>
+          )}
           <div className="project-details_links-team">
             <img alt="engine" src={project.engine} className="engine-image" />
-            <div className="users">
-              <HiUserGroup className="userteam" />
-              <p className="numberteam">{project.team}</p>
-            </div>
+            {project.team && (
+              <div className="users">
+                <HiUserGroup className="userteam" />
+                <p className="numberteam">{project.team}</p>
+              </div>
+            )}
           </div>
         </div>
         <div className="project-details_info">
@@ -72,12 +78,16 @@ function ProjectsPage() {
               <li key={index}>{item.skill}</li>
             ))}
           </ul>
-          <p className="project-details_info-skills_title">COMMUNICATION</p>
-          <ul className="project-details_info-skills_list">
-            {project.communication.map((item, index) => (
-              <li key={index}>{item.skill}</li>
-            ))}
-          </ul>
+          {project.communication.length > 0 && (
+            <>
+              <p className="project-details_info-skills_title">COMMUNICATION</p>
+              <ul className="project-details_info-skills_list">
+                {project.communication.map((item, index) => (
+                  <li key={index}>{item.skill}</li>
+                ))}
+              </ul>
+            </>
+          )}
           <p className="project-details_info-skills_title">TECH</p>
           <ul className="project-details_info-skills_list">
             {project.tech.map((item, index) => (
