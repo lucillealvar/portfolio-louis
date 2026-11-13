@@ -7,13 +7,13 @@
     "video": "",
     "image": "https://i.imgur.com/OZKvPcX.png",
     "banner": "https://i.imgur.com/OZKvPcX.png",
-    "description": "An unannounced 3D adventure game developed at Reflector Entertainment (Bandai Namco) in Unreal Engine. The project was cancelled during pre-production, so I can't share images or footage, but here is what I worked on.\n\nAs a Technical Game Designer, I implemented interactable and save systems in Blueprint, owned a gameplay section from prototype to final, integrated companion and enemy AI, and made tools for level designers.",
+    "description": "An unannounced 3D adventure game developed at Reflector Entertainment (Bandai Namco) in Unreal Engine. The project was cancelled during pre-production, so I can't share images or footage, but here is what I worked on.\n\nAs a Technical Game Designer, I implemented interactable and save systems in Blueprint, owned gameplay sections from prototype to final, integrated companion and enemy AI, and made tools for level designers.",
     "engine": "https://immersivedesignstudios.com/wp-content/uploads/2017/05/1425334231-unreal-engine-logo.png",
     "team": "",
     "design": [
       { "skill": "Help define the gameplay ingredient design pipeline, from design to completion" },
       { "skill": "Design and refactor families of reusable interactable base classes in Blueprint (carryables, insertables, buttons and levers, doors, movable objects, climbables)" },
-      { "skill": "Own a full gameplay section from puzzle prototype to final version, including sequences built with Sequencer" },
+      { "skill": "Own gameplay sections from puzzle prototype to final version, including sequences built with Sequencer" },
       { "skill": "Prototype new interactables and build test gyms" }
     ],
     "communication": [
